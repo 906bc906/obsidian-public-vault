@@ -12,6 +12,12 @@
             {
               "leaf": "5336141511f25c26",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/메인 Main.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5336141511f25c26",
+              "group": null,
               "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\"private\",\"staged\":false}}",
               "eState": "{}"
             },
@@ -30,10 +36,11 @@
           ]
         },
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": "private",
-            "staged": false
+            "file": "notes/메인 Main.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -103,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/메인 Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/메인 Main.md"
+              }
             }
           },
           {

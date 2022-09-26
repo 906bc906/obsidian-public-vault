@@ -1,3 +1,5 @@
 [submodule "private"]
 	path = private
 	url = https://gitlab.com/906bc/906bc-obsidian-private-module.git
+	branch = main
+	update = rebase
