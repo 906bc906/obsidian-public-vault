@@ -1,0 +1,19 @@
+{
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments",
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "promptDelete": false,
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "shortest"
+}

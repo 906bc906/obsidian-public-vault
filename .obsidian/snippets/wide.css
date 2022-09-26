@@ -1,0 +1,4 @@
+body.minimal-theme {
+    --line-width: 60rem !important;
+    --max-width: 100% !important;
+}

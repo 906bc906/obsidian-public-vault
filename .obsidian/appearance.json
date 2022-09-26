@@ -1,0 +1,16 @@
+{
+  "theme": "obsidian",
+  "translucency": false,
+  "interfaceFontFamily": "a견나루",
+  "textFontFamily": "리디바탕,마루 부리",
+  "monospaceFontFamily": "나눔고딕코딩,cascadia code",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "fullwidth",
+    "wide",
+    "hideribbon",
+    "boldwhiten",
+    "li p margin reduce"
+  ],
+  "baseFontSize": 17
+}

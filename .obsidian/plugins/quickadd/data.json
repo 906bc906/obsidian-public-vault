@@ -1,0 +1,142 @@
+{
+  "choices": [
+    {
+      "id": "00ce47ca-aa6b-41ca-bc65-aef5a3de5aac",
+      "name": "일간 daily",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "notes/{{VALUE}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[tag:: {{LINKCURRENT}}]\n[period:: [[Daily]]]"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "b3286dfb-b790-449f-9143-020b7204117a",
+      "name": "주간 weekly",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "notes/{{VALUE}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[tag:: {{LINKCURRENT}}]\n[period:: [[Weekly]]]"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "5a7ea012-3eb3-45f9-97a2-e6f141bf36e0",
+      "name": "월간 monthly",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "notes/{{VALUE}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[tag:: {{LINKCURRENT}}]\n[period:: [[Monthly]]]"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "38ae3b34-8187-433d-8058-cf70a5ecedd5",
+      "name": "연간 yearly",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "notes/{{VALUE}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[tag:: {{LINKCURRENT}}]\n[period:: [[Yearly]]]"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

@@ -1,0 +1,118 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic from Obsidian": "<!--ankiQ-->\\n*((?:(?!<!--).*\\n)*)\\n*<!--ankiA-->\\n*((?:(?!<!--).*\\n)*)\\n*<!--ankiE-->\\n?",
+      "Cloze from Obsidian": "<!--ankiQ-->\\n*((?:(?!<!--).*\\n)*)\\n*<!--ankiE-->\\n?"
+    },
+    "FILE_LINK_FIELDS": {
+      "Obsidian-basic-source": "Source",
+      "Obsidian-cloze-source": "Text",
+      "ObsidianAnkiSyncModel": "oid",
+      "Basic from Obsidian": "Source",
+      "Cloze from Obsidian": "Source"
+    },
+    "CONTEXT_FIELDS": {
+      "Obsidian-basic-source": "Context",
+      "Basic from Obsidian": "Context",
+      "Cloze from Obsidian": "Content"
+    },
+    "FOLDER_DECKS": {
+      "anki": "",
+      "attachments": "",
+      "book": "",
+      "boostcamp": "",
+      "dict": "",
+      "memo": "",
+      "post": "",
+      "templates": "",
+      "uncategorized": "",
+      "wiki": ""
+    },
+    "FOLDER_TAGS": {
+      "anki": "",
+      "attachments": "",
+      "book": "",
+      "boostcamp": "",
+      "dict": "",
+      "memo": "",
+      "post": "",
+      "templates": "",
+      "uncategorized": "",
+      "wiki": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": true,
+      "Add Context": true,
+      "CurlyCloze": true,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [
+    "../attachments/Pasted image 20220731034040.png"
+  ],
+  "File Hashes": {
+    "uncategorized/git-subtree-submodule.md": "89498b644dd4e70f6f5543a7f1bdf932",
+    "to-do-list.md": "8ce1d1743dfb8b34c6227a7003bb1913",
+    "templates/anki template.md": "47b247033b0497b4d15b12dfc058b9f6",
+    "README.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "post/2022-07-18 dasd.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "memo/옵시디언 플러그인.md": "de94a9a42148c9767c2668924ce1bc5d",
+    "dict/dict 2206.md": "93082532c62b4e54daaa7c234ed1e9d3",
+    "boostcamp/xml.md": "5662a9b10bc601084ae49c02d25c8955",
+    "boostcamp/Week2.md": "8e254ce019d1c972d123bef96c59f522",
+    "boostcamp/Week1.md": "3d94f3e991157006b14a7f8165ad7e34",
+    "boostcamp/thread.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "boostcamp/regex.md": "747c2d8ba0f0a5e306c0c4fae0dd8042",
+    "boostcamp/README.md": "3f1fa09ddd5702c6b68e55201005009d",
+    "boostcamp/process-and-thread.md": "0678af0b8dcfc746ea062bd7cb8c0159",
+    "boostcamp/OOP.md": "431d58f1fdc7fcbeaa8f457fc81bbbeb",
+    "boostcamp/memory-structure.md": "0a15fc0420f695d2db73d86d201ea0ae",
+    "boostcamp/javascript.md": "9537fbc2bf9046a8665f57f7c12661b1",
+    "boostcamp/memory-abstraction.md": "14ed4bdd8f05df3d4352fd9fba0ce5e8",
+    "boostcamp/git.md": "9ec4676d49398466c06ade9154d25238",
+    "boostcamp/Functional Programming.md": "cd3635e3446cb28050b99dcf0535c032",
+    "boostcamp/compiler-frontend.md": "e8cb917b65573d625a477ab7c96ad3f3",
+    "boostcamp/checklist.md": "2395e8d990c9be6c37e46145165b47ce",
+    "blank.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "anki/anki.md": "8c1bf6b64e818afc86a66caae5351f63",
+    "uncategorized/network.md": "1f954d6062623642a151a11f239acc59",
+    "uncategorized/npm.md": "7ebad622eef373ccfdb9da602a9dff52",
+    "boostcamp/crontab.md": "455bc1f133361d9559ac8877f38c6a4e",
+    "boostcamp/shell.md": "e68d17d020ec052f87812a4405e3884d",
+    "boostcamp/linux.md": "5e30608c430e7a17050676d04ab46c1e",
+    "boostcamp/npm.md": "efe9a4cb5c38a258939cba5757104d51",
+    "boostcamp/network.md": "1f954d6062623642a151a11f239acc59",
+    "uncategorized/anki connect failed to listen port 8765.md": "1214c0e27b8b53a7fcccc48875e62a52",
+    "boostcamp/Software Test.md": "bfe025e946eee38521d8dc2594865a0d",
+    "uncategorized/anki regex.md": "03c7e02f95228309da3ec99d2d14db61"
+  },
+  "fields_dict": {
+    "Basic from Obsidian": [
+      "Front",
+      "Back",
+      "Source",
+      "Context"
+    ],
+    "Cloze from Obsidian": [
+      "Text",
+      "Back Extra",
+      "Source",
+      "Content"
+    ]
+  }
+}
