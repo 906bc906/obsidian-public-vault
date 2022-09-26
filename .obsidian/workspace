@@ -6,12 +6,34 @@
       {
         "id": "5336141511f25c26",
         "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5336141511f25c26",
+              "group": null,
+              "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\"private\",\"staged\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5336141511f25c26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W04D1_MC.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":147,\"ch\":0},\"to\":{\"line\":146,\"ch\":7}},\"scroll\":148.5906862745098}"
+            },
+            {
+              "leaf": "5336141511f25c26",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"main/메인 Main.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "main/메인 Main.md",
-            "mode": "preview",
-            "source": false
+            "file": "private",
+            "staged": false
           }
         }
       }
@@ -29,6 +51,10 @@
           {
             "id": "e0fd61f16f5bfcea",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -77,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/메인 Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,24 +140,35 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "main/메인 Main.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "c23f0311eb52e19a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "5336141511f25c26",
   "lastOpenFiles": [
+    "private/W04D1_MC.md",
+    "main/메인 Main.md",
     "notes/W04D1 MC.md",
     "templates/basic template.md",
     "notes/메인 Main.md",
-    "main/메인 Main.md",
     "notes/subtest.md",
     "subfolder/메인 Main.md"
   ]
