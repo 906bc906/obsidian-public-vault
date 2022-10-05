@@ -1,0 +1,10 @@
+{
+  "findText": "<!--Basic Template V0.0.1 Start -->\\n ```dataview\\n TABLE WITHOUT ID  file.link AS title, tag\\n FROM -\"templates\"\\n SORT file.mtime, tag desc\\n WHERE contains(period, [[]])\\n ```\\n <!--Basic Template V0.0.1 End -->",
+  "replaceText": "<!--Basic Template V0.0.2 Start -->\n ```dataview\n TABLE WITHOUT ID  file.link AS title, tags\n FROM -\"templates\"\n SORT file.mtime, tags desc\n WHERE contains(tags, [[]])\n ```\n <!--Basic Template V0.0.1 End -->",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": false
+}

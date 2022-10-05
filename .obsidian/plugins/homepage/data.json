@@ -1,6 +1,8 @@
 {
   "version": 2,
-  "defaultNote": "notes/메인 Main",
+  "defaultNote": "main/메인 Main",
+  "useMoment": false,
+  "momentFormat": "YYYY-MM-DD",
   "workspace": "Home",
   "workspaceEnabled": false,
   "hasRibbonIcon": true,

@@ -6,7 +6,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./attachments",
   "defaultViewMode": "preview",
-  "livePreview": true,
+  "livePreview": false,
   "promptDelete": false,
   "readableLineLength": true,
   "pdfExportSettings": {
@@ -15,5 +15,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "tabSize": 2
 }

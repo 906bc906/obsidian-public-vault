@@ -1,11 +1,11 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "accentHue": 201,
   "accentSat": 17,
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-default-light",
-  "darkScheme": "minimal-macos-dark",
+  "darkScheme": "minimal-default-dark",
   "editorFont": "리디바탕, -apple-system,BlinkMacSystemFont,\"Segoe UI Emoji\",\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
   "lineHeight": 1.5,
   "lineWidth": 40,

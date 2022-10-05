@@ -12,7 +12,9 @@
   "url-into-selection",
   "obsidian-tabs",
   "obsidian-dynamic-toc",
-  "obsidian-regex-replace",
   "obsidian-to-anki-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "multi-column-markdown",
+  "obsidian-file-info-plugin",
+  "obsidian-regex-replace"
 ]

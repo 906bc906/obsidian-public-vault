@@ -2,14 +2,17 @@
   "settings": {
     "CUSTOM_REGEXPS": {
       "Basic from Obsidian": "<!--ankiQ-->\\n*((?:(?!<!--).*\\n)*)\\n*<!--ankiA-->\\n*((?:(?!<!--).*\\n)*)\\n*<!--ankiE-->\\n?",
-      "Cloze from Obsidian": "<!--ankiQ-->\\n*((?:(?!<!--).*\\n)*)\\n*<!--ankiE-->\\n?"
+      "Cloze from Obsidian": "",
+      "Basic Reversed from Chrome Quick Adder": "",
+      "Cloze (Hide all)": "<!--ankiQ-->\\n*((?:(?!<!--).*\\n)*)\\n*<!--ankiE-->\\n?"
     },
     "FILE_LINK_FIELDS": {
       "Obsidian-basic-source": "Source",
       "Obsidian-cloze-source": "Text",
       "ObsidianAnkiSyncModel": "oid",
       "Basic from Obsidian": "Source",
-      "Cloze from Obsidian": "Source"
+      "Cloze from Obsidian": "Source",
+      "Cloze (Hide all)": "Hide others on the back side"
     },
     "CONTEXT_FIELDS": {
       "Obsidian-basic-source": "Context",
@@ -26,7 +29,10 @@
       "post": "",
       "templates": "",
       "uncategorized": "",
-      "wiki": ""
+      "wiki": "",
+      "main": "",
+      "notes": "전체::개발",
+      "private": ""
     },
     "FOLDER_TAGS": {
       "anki": "",
@@ -38,7 +44,10 @@
       "post": "",
       "templates": "",
       "uncategorized": "",
-      "wiki": ""
+      "wiki": "",
+      "main": "",
+      "notes": "",
+      "private": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -99,7 +108,86 @@
     "boostcamp/network.md": "1f954d6062623642a151a11f239acc59",
     "uncategorized/anki connect failed to listen port 8765.md": "1214c0e27b8b53a7fcccc48875e62a52",
     "boostcamp/Software Test.md": "bfe025e946eee38521d8dc2594865a0d",
-    "uncategorized/anki regex.md": "03c7e02f95228309da3ec99d2d14db61"
+    "uncategorized/anki regex.md": "03c7e02f95228309da3ec99d2d14db61",
+    "templates/Anki Template.md": "cd28541f6ece626d03984b39abfa5f89",
+    "templates/basic template.md": "20249dc674fb507b186bfc23d0982cb7",
+    "private/W04D1_MC.md": "66ea59fe5a63623c640457e0f3e9c5ce",
+    "notes/anki test.md": "68b329da9893e34099c7d8ad5cb9c940",
+    "notes/EdgeDB.md": "c2bfb2ddd919614744cc7144c34fd8c5",
+    "notes/Tailwind CSS.md": "4162bc514f93f679449cbf552b7307f4",
+    "notes/SolidJS.md": "60494ca9ea22b1ecb2b9d3e99a6a7152",
+    "notes/Typescript.md": "03d4ac3e8505e11727f846837e2e2ff5",
+    "notes/Vite.md": "1dd3b938c68820af81c0e09b8d4f5b69",
+    "notes/Bun.md": "4162bc514f93f679449cbf552b7307f4",
+    "notes/to do.md": "a05817dc0e08cd7d4d9cb28c1b6ce5a4",
+    "notes/다 읽은 책 done.md": "5fe87a7519ee18a6ece6d81efac80e99",
+    "notes/읽고 있는 책 reading.md": "5fe87a7519ee18a6ece6d81efac80e99",
+    "notes/아직 안 읽은 책 not read yet.md": "5fe87a7519ee18a6ece6d81efac80e99",
+    "notes/피톨로지 피트니스 영양학.md": "a7c5a620cf48854600b69a0ca0576ecb",
+    "notes/책 Book.md": "3e8a47d3d31a4c38ba7ab854bf23e97b",
+    "main/모든 노트 All notes.md": "0b504b7f12b21b7e6cdc806aa9b1bd23",
+    "main/태그 없는 노트 no tag.md": "cda383422d90f2f13a2bd87a25378e84",
+    "main/Recentrly Modified.md": "e9fc94d3f04169d6c7cb0c6fdfbe4e6c",
+    "main/메인 Main.md": "8b4f6d18151ac6157a429370be358126",
+    "private/부스트캠프 boostcamp.md": "d9d37813f5f26dc91c7072ffc85f7e60",
+    "private/W04D2 회고.md": "f38393bcb2c4f4f3acb465933662d386",
+    "private/Boostcamp Membership P3 Project Setting.md": "bd24d91049506abdda2f1357b497d0bd",
+    "notes/npm vs yarn.md": "4162bc514f93f679449cbf552b7307f4",
+    "notes/jsx.md": "bf1df9f185c2ef1e634fb47651730908",
+    "notes/duckduckgo를 대체하는 검색 엔진.md": "e1230a3a6e3e43e2950567ab6bc36cd8",
+    "notes/diary 일기.md": "a05817dc0e08cd7d4d9cb28c1b6ce5a4",
+    "notes/cold start 콜드 스타트.md": "4162bc514f93f679449cbf552b7307f4",
+    "private/W04D3_MC.md": "61482ed59e3e22275ceb5edf1ca2643a",
+    "notes/blocking non-blocking sync async 구분.md": "16dfb95a3e2bfa092ae763553734f392",
+    "notes/ubuntu smb mount.md": "3fc69b1f2b27938b3d4da8b47850248a",
+    "notes/oauth.md": "fca67677292c4ff31cad4908fb061030",
+    "notes/mynextdns.md": "cd67cfe168e5966ec9c681135e809f8b",
+    "notes/linux.md": "20249dc674fb507b186bfc23d0982cb7",
+    "notes/linux git pat 등록.md": "599ee7eedc1e4cbf3862b4ce68e20c3d",
+    "notes/github oauth로 회원가입 및 로그인 구현.md": "7a3522bc5513bc39b39646ae7af71169",
+    "notes/git 깃.md": "20249dc674fb507b186bfc23d0982cb7",
+    "notes/authorization 인가.md": "20249dc674fb507b186bfc23d0982cb7",
+    "notes/authentication 인증.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "notes/anki.md": "cde597ef452428b0f9def09acc93a2dd",
+    "private/W05D1_MC.md": "ccee6646bd41172ddb6487cb76ed6e4a",
+    "private/W04D3_리뷰캠퍼미팅.md": "cfdf0dde70c589eb53951f8d004612ec",
+    "notes/SolidJS - Introduction - JSX.md": "21fe7c5afe7ccfdfeb224f03b59e308d",
+    "notes/SolidJS - Introduction - Basics.md": "48703579dd86a241e97692db1049cfcc",
+    "notes/프로그래밍.md": "5b2623947c2aec02dd194d56bdb42e5a",
+    "notes/의존성 주입 dependency Injection.md": "4162bc514f93f679449cbf552b7307f4",
+    "notes/웹 개발.md": "bcabdbae3faacdf0b58b1388b4cfed3e",
+    "notes/여러 마크다운 파일을 한번에 find and replace 하는 방법.md": "74d238ca79cb671c5904d28a2205806d",
+    "notes/소프트웨어 개발 Software development.md": "5a4f00a511b3e06cca4db2d35d719044",
+    "notes/리눅스 디스플레이 색온도 조절.md": "0eafc5190539e87380bbcf67a822ee19",
+    "notes/리눅스 (OS 사용).md": "2ddadfc04c7b6856c71d5fc126d179df",
+    "notes/javascript reflection.md": "4162bc514f93f679449cbf552b7307f4",
+    "notes/javascript decorator.md": "4162bc514f93f679449cbf552b7307f4",
+    "notes/SolidJS - 튜토리얼 1.md": "d9f00037f970c1867d9768f8fa107155",
+    "notes/SolidJS - Introduction - Signals.md": "9b63f38fc0ea19fb8dfdedb17634cd04",
+    "notes/SolidJS - Introduction - Components.md": "0d4eed4c8796296e7ae984be99c08096",
+    "notes/SolidJS - Introduction - Effects.md": "3e19c01b4a81fab25ace64c28ef280c4",
+    "notes/SolidJS - Introduction - Memos.md": "b2caec7f4351cbf1fafb1c40022738e2",
+    "notes/SolidJS - Introduction - Derived Signals.md": "1458d825092a44150d3f48325978ef19",
+    "notes/SolidJS - Control Flow - Show.md": "d713debb632fa40adeccb336e4929203",
+    "notes/SolidJS - Control Flow - For.md": "c9dc3b11ba2750202dcdc257a477a2d7",
+    "notes/SolidJS - Control Flow - Index.md": "f1c28b0b1703ba9c4e7fa362a8d7161f",
+    "notes/SolidJS - Control Flow - Switch.md": "f555e0d900676fd51d7a179cbc2518d5",
+    "notes/SolidJS - Control Flow - Dynamic.md": "484d9e22cd263628ffad21ce95a49f0b",
+    "notes/SolidJS - Control Flow - Portal.md": "4b6711f8e94f2a4f3a7563f036f01589",
+    "notes/SolidJS - Control Flow - Error Boundary.md": "363948fff5a8d781f44d9ec97dfb9275",
+    "notes/SolidJS - Bindings - Events.md": "e3cb7e6049f53dbc964bfce2cd8c005e",
+    "notes/SolidJS - Lifecycles - onCleanup.md": "11c5c23e04176b863c305e8cdef46913",
+    "notes/SolidJS - Lifecycles - onMount.md": "e0dc15f9127aaa7ef381f75f9f465d2c",
+    "notes/SolidJS - Bindings - Style.md": "1b8ec56d998ce1e6d10dc6b5b34a689c",
+    "notes/SolidJS - Bindings - ClassList.md": "f194eb175c8a7b792dac41609f80a74c",
+    "notes/SolidJS - Bindings - Refs.md": "1fbf7b6545f3f1bdc22afec3d1d4d280",
+    "notes/SolidJS - Bindings - Forwarding Refs.md": "3518095411a812062d70e693cf4abf7e",
+    "notes/SolidJS - Bindings - Spreads.md": "ee5385953bc3a8716275c83ab5e0ccae",
+    "private/mynextdns.md": "cd67cfe168e5966ec9c681135e809f8b",
+    "notes/SolidJS - Props - Default Props.md": "7a426cb558739861f7b0273e6cd8d055",
+    "notes/SolidJS - Bindings - Directives.md": "bedf9b2ac9abdfd71b700ef427d10ff9",
+    "notes/SolidJS - Props - Splitting Props.md": "eee46d90bb68cc306dea3e2decd0dba9",
+    "notes/SolidJS - Props - Children.md": "fda2f4d897780f22d68eb841e31293fc"
   },
   "fields_dict": {
     "Basic from Obsidian": [
@@ -107,6 +195,15 @@
       "Back",
       "Source",
       "Context"
+    ],
+    "Basic Reversed from Chrome Quick Adder": [
+      "Front",
+      "Back"
+    ],
+    "Cloze (Hide all)": [
+      "Text",
+      "Extra",
+      "Hide others on the back side"
     ],
     "Cloze from Obsidian": [
       "Text",
