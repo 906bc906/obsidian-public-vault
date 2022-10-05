@@ -4,24 +4,138 @@
     "type": "split",
     "children": [
       {
-        "id": "57a363cb90c9c388",
+        "id": "234d5a0a0290bcbb",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "57a363cb90c9c388",
+              "leaf": "234d5a0a0290bcbb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"main/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W05D1_MC.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W04D3_MC.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W04D2 회고.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W04D1_MC.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/Boostcamp Membership P3 Project Setting.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/부스트캠프 boostcamp.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Vite.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/ubuntu smb mount.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Typescript.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/to do.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Tailwind CSS.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Props - Default Props.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Lifecycles - onMount.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Introduction - Effects.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Control Flow - Switch.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Control Flow - Error Boundary.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Bindings - Refs.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Bindings - Forwarding Refs.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Bindings - Directives.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "234d5a0a0290bcbb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Bindings - Events.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "main/메인 Main.md",
-            "mode": "preview",
+            "file": "private/W05D1_MC.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -36,7 +150,7 @@
       {
         "id": "6cdce4173865dcea",
         "type": "tabs",
-        "dimension": 25.964912280701757,
+        "dimension": 47.368421052631575,
         "children": [
           {
             "id": "e0fd61f16f5bfcea",
@@ -74,7 +188,7 @@
       {
         "id": "720efdb58c7aef08",
         "type": "tabs",
-        "dimension": 17.543859649122798,
+        "dimension": 17.543859649122805,
         "children": [
           {
             "id": "b68e002931e9213e",
@@ -93,7 +207,7 @@
       {
         "id": "3728b996923343b2",
         "type": "tabs",
-        "dimension": 33.7719298245614,
+        "dimension": 17.543859649122805,
         "children": [
           {
             "id": "157fe9a75f035559",
@@ -105,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/메인 Main.md"
+                "file": "private/W05D1_MC.md"
               }
             }
           }
@@ -114,7 +228,7 @@
       {
         "id": "7f95be2b78e77997",
         "type": "tabs",
-        "dimension": 22.719298245614034,
+        "dimension": 17.543859649122805,
         "children": [
           {
             "id": "a4c48f6268977fa5",
@@ -138,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "main/메인 Main.md",
+                "file": "private/W05D1_MC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +286,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 510
   },
   "right": {
     "id": "2028e219f4e3ec20",
@@ -192,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/메인 Main.md",
+                "file": "private/W05D1_MC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,17 +341,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "157fe9a75f035559",
+  "active": "234d5a0a0290bcbb",
   "lastOpenFiles": [
-    "README.md",
-    "main/메인 Main.md",
-    "notes/프로그래밍.md",
-    "notes/github 깃헙.md",
-    "notes/Github fork 와 template 의 차이.md",
-    "notes/소프트웨어 개발 Software development.md",
-    "notes/SolidJS - Props - Children.md",
-    "notes/SolidJS - Introduction - Signals.md",
-    "notes/SolidJS - 튜토리얼 1.md",
-    "notes/SolidJS - Introduction - JSX.md"
+    "private/W04D3_MC.md",
+    "private/W04D2 회고.md",
+    "private/W04D1_MC.md",
+    "private/Boostcamp Membership P3 Project Setting.md",
+    "private/부스트캠프 boostcamp.md",
+    "notes/Vite.md",
+    "notes/ubuntu smb mount.md",
+    "notes/Typescript.md",
+    "notes/to do.md",
+    "notes/Tailwind CSS.md"
   ]
 }

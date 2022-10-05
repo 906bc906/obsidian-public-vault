@@ -4,17 +4,13 @@
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "pane-relief",
-  "quickadd",
   "homepage",
   "simple-embeds",
-  "flashcards-obsidian",
   "cm-typewriter-scroll-obsidian",
   "url-into-selection",
   "obsidian-tabs",
-  "obsidian-dynamic-toc",
   "obsidian-to-anki-plugin",
   "obsidian-git",
   "multi-column-markdown",
-  "obsidian-file-info-plugin",
-  "obsidian-regex-replace"
+  "obsidian-file-info-plugin"
 ]

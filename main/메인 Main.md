@@ -1,3 +1,4 @@
+- [ ] Gitlab 크레덴셜 토큰으로 바꿀 것 (지금 평문 보관중임)
 ## Public
 - [[소프트웨어 개발 Software development]]
 - [[건강]]
