@@ -4,139 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "234d5a0a0290bcbb",
+        "id": "df40df04ef243435",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "234d5a0a0290bcbb",
+              "leaf": "df40df04ef243435",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W05D1_MC.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\".obsidian/community-plugins.json\",\"staged\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "234d5a0a0290bcbb",
+              "leaf": "df40df04ef243435",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W04D3_MC.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W04D2 회고.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W04D1_MC.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/Boostcamp Membership P3 Project Setting.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/부스트캠프 boostcamp.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Vite.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/ubuntu smb mount.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Typescript.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/to do.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/Tailwind CSS.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Props - Default Props.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Lifecycles - onMount.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Introduction - Effects.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Control Flow - Switch.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Control Flow - Error Boundary.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Bindings - Refs.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Bindings - Forwarding Refs.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Bindings - Directives.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "234d5a0a0290bcbb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/SolidJS - Bindings - Events.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"main/메인 Main.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":27},\"to\":{\"line\":2,\"ch\":27}},\"scroll\":0}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "private/W05D1_MC.md",
-            "mode": "source",
-            "source": true
+            "file": ".obsidian/community-plugins.json",
+            "staged": false
           }
         }
       }
@@ -218,9 +109,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/W05D1_MC.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -252,7 +141,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "private/W05D1_MC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -286,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510
+    "width": 272
   },
   "right": {
     "id": "2028e219f4e3ec20",
@@ -306,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/W05D1_MC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,10 +226,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
-  "active": "234d5a0a0290bcbb",
+  "active": "df40df04ef243435",
   "lastOpenFiles": [
+    "main/메인 Main.md",
+    "private/W05D1_MC.md",
     "private/W04D3_MC.md",
     "private/W04D2 회고.md",
     "private/W04D1_MC.md",
@@ -350,8 +239,6 @@
     "private/부스트캠프 boostcamp.md",
     "notes/Vite.md",
     "notes/ubuntu smb mount.md",
-    "notes/Typescript.md",
-    "notes/to do.md",
-    "notes/Tailwind CSS.md"
+    "notes/Typescript.md"
   ]
 }
