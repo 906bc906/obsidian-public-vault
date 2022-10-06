@@ -12,8 +12,20 @@
             {
               "leaf": "7c4489277899e949",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_index.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/리눅스 디스플레이 색온도 조절.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"main/Recentrly Modified.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_index.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":4.705882352941177}"
             },
             {
               "leaf": "7c4489277899e949",
@@ -24,12 +36,8 @@
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_index.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -110,9 +118,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,7 +150,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +203,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,15 +239,15 @@
   },
   "active": "7c4489277899e949",
   "lastOpenFiles": [
+    "notes/리눅스 디스플레이 색온도 조절.md",
+    "main/Recentrly Modified.md",
+    "_index.md",
     "main/메인 Main.md",
     "notes/SolidJS - Props - Children.md",
     "notes/SolidJS - 튜토리얼 1.md",
     "notes/SolidJS - Control Flow - Index.md",
     "notes/SolidJS - Introduction - JSX.md",
     "notes/SolidJS - Introduction - Basics.md",
-    "notes/SolidJS.md",
-    "notes/웹 개발.md",
-    "notes/프로그래밍.md",
-    "notes/소프트웨어 개발 Software development.md"
+    "notes/SolidJS.md"
   ]
 }

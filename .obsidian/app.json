@@ -2,7 +2,7 @@
   "legacyEditor": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes",
+  "newFileFolderPath": "note",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./attachments",
   "defaultViewMode": "preview",

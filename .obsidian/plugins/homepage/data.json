@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "defaultNote": "main/메인 Main",
+  "defaultNote": "note/메인 Main",
   "useMoment": false,
   "momentFormat": "YYYY-MM-DD",
   "workspace": "Home",
