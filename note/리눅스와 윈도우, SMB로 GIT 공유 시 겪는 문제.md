@@ -1,3 +1,4 @@
+# 리눅스와 윈도우, SMB로 GIT 공유 시 겪는 문제
 <!--Basic Template V0.0.2 Start -->
 ```dataview
 TABLE WITHOUT ID  file.link AS title, tags

@@ -7,42 +7,126 @@
         "id": "7c4489277899e949",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "7c4489277899e949",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"\\\"note/메인.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/리눅스 디스플레이 색온도 조절.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":36},\"to\":{\"line\":13,\"ch\":36}},\"scroll\":8.564338235294118}"
             },
             {
               "leaf": "7c4489277899e949",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":23},\"to\":{\"line\":6,\"ch\":23}},\"scroll\":6.705882352941177}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/리눅스 디스플레이 색온도 조절.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20220929122730.png\"}}",
               "eState": "{}"
             },
             {
               "leaf": "7c4489277899e949",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"main/Recentrly Modified.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20221005001456.png\"}}",
               "eState": "{}"
             },
             {
               "leaf": "7c4489277899e949",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_index.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":4.705882352941177}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20220929122730.png\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "7c4489277899e949",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"main/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20221005001456.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Vite.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/ubuntu smb mount.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Vite.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/ubuntu smb mount.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Typescript.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/EdgeDB.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/to do.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Typescript.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/to do.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Tailwind CSS.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Props - Splitting Props.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Props - Default Props.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Props - Children.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Lifecycles - onCleanup.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Lifecycles - onMount.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -50,7 +134,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "note/리눅스 디스플레이 색온도 조절.md",
             "mode": "source",
             "source": true
           }
@@ -135,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "note/리눅스 디스플레이 색온도 조절.md"
               }
             }
           }
@@ -168,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_index.md",
+                "file": "note/리눅스 디스플레이 색온도 조절.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "note/리눅스 디스플레이 색온도 조절.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,15 +343,15 @@
   },
   "active": "7c4489277899e949",
   "lastOpenFiles": [
-    "\"note/메인.md",
-    "_index.md",
-    "note/메인.md",
-    "notes/리눅스 디스플레이 색온도 조절.md",
-    "main/Recentrly Modified.md",
-    "main/메인 Main.md",
-    "notes/SolidJS - Props - Children.md",
-    "notes/SolidJS - 튜토리얼 1.md",
-    "notes/SolidJS - Control Flow - Index.md",
-    "notes/SolidJS - Introduction - JSX.md"
+    "note/attachments/Pasted image 20220929122730.png",
+    "note/attachments/Pasted image 20221005001456.png",
+    "note/Vite.md",
+    "note/ubuntu smb mount.md",
+    "note/Typescript.md",
+    "note/EdgeDB.md",
+    "note/to do.md",
+    "note/Tailwind CSS.md",
+    "note/SolidJS - Props - Splitting Props.md",
+    "note/SolidJS - Props - Default Props.md"
   ]
 }

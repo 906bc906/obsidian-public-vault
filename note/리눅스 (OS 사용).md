@@ -1,3 +1,4 @@
+# 리눅스 (OS 사용)
 <!--Basic Template V0.0.2 Start -->
 ```dataview
 TABLE WITHOUT ID  file.link AS title, tags

@@ -1,3 +1,4 @@
+# duckduckgo를 대체하는 검색 엔진
 <!--Basic Template V0.0.2 Start -->
 ```dataview
 TABLE WITHOUT ID  file.link AS title, tags
