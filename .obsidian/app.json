@@ -16,5 +16,6 @@
     "downscalePercent": 100
   },
   "newLinkFormat": "shortest",
-  "tabSize": 2
+  "tabSize": 2,
+  "useMarkdownLinks": false
 }
