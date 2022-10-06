@@ -11,7 +11,9 @@ WHERE contains(tags, [[]])
 
 솔리드는 반응형 웹 앱을 만들기 위한 JS 프레임워크다.
 
-- [[SolidJS - 튜토리얼 1]]
+- [[SolidJS - 튜토리얼]]
+- [[SolidJS - Getting Started]]
+- [[SolidJS - Router]]
 
 ## 시작
 

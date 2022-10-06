@@ -8,3 +8,5 @@ WHERE contains(tags, [[]])
 ```
 <!--Basic Template V0.0.2 End -->
 [tags::]
+
+- [[특정 브랜치만 pull 하기]]

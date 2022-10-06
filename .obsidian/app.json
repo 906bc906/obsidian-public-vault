@@ -17,5 +17,6 @@
   },
   "newLinkFormat": "shortest",
   "tabSize": 2,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "strictLineBreaks": true
 }

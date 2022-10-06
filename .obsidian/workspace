@@ -7,13 +7,109 @@
         "id": "7c4489277899e949",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 2,
           "stack": [
             {
               "leaf": "7c4489277899e949",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Router - Getting Started.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":17},\"to\":{\"line\":4,\"ch\":17}},\"scroll\":5.675245098039216}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Router.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":40},\"to\":{\"line\":18,\"ch\":40}},\"scroll\":11.480392156862745}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":20},\"to\":{\"line\":15,\"ch\":20}},\"scroll\":15.654960981047937}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Reactivity - Suspense.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - 튜토리얼.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":43.58033749082905}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":6.329479768786127}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/프로그래밍.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/소프트웨어 개발 Software development.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Reactivity - Lazy Components.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":0},\"to\":{\"line\":41,\"ch\":0}},\"scroll\":42.87928921568628}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - 튜토리얼.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":41.02787967718268}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":15},\"to\":{\"line\":13,\"ch\":15}},\"scroll\":17.99625748502994}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/특정 브랜치만 pull 하기.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/git 깃.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":19},\"to\":{\"line\":11,\"ch\":19}},\"scroll\":11.657190635451505}"
+            },
+            {
+              "leaf": "7c4489277899e949",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/리눅스 디스플레이 색온도 조절.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":36},\"to\":{\"line\":13,\"ch\":36}},\"scroll\":8.564338235294118}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "7c4489277899e949",
@@ -31,102 +127,6 @@
               "leaf": "7c4489277899e949",
               "group": null,
               "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20220929122730.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20221005001456.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Vite.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/ubuntu smb mount.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Vite.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/ubuntu smb mount.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Typescript.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/EdgeDB.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/to do.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Typescript.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/to do.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Tailwind CSS.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Props - Splitting Props.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Props - Default Props.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Props - Children.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Lifecycles - onCleanup.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Lifecycles - onMount.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -134,7 +134,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "note/리눅스 디스플레이 색온도 조절.md",
+            "file": "note/SolidJS.md",
             "mode": "source",
             "source": true
           }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/리눅스 디스플레이 색온도 조절.md"
+                "file": "note/SolidJS.md"
               }
             }
           }
@@ -252,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note/리눅스 디스플레이 색온도 조절.md",
+                "file": "note/SolidJS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -286,7 +286,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 227
   },
   "right": {
     "id": "2028e219f4e3ec20",
@@ -306,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/리눅스 디스플레이 색온도 조절.md",
+                "file": "note/SolidJS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,19 +339,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 226.5,
+    "collapsed": true
   },
   "active": "7c4489277899e949",
   "lastOpenFiles": [
-    "note/attachments/Pasted image 20220929122730.png",
-    "note/attachments/Pasted image 20221005001456.png",
-    "note/Vite.md",
-    "note/ubuntu smb mount.md",
-    "note/Typescript.md",
-    "note/EdgeDB.md",
-    "note/to do.md",
-    "note/Tailwind CSS.md",
-    "note/SolidJS - Props - Splitting Props.md",
-    "note/SolidJS - Props - Default Props.md"
+    "note/SolidJS - Router.md",
+    "note/SolidJS - Router - Getting Started.md",
+    "note/SolidJS.md",
+    "note/SolidJS - Reactivity - Suspense.md",
+    "note/SolidJS - 튜토리얼.md",
+    "note/SolidJS - Getting Started.md",
+    "note/SolidJS - Stores - Create Store.md",
+    "note/SolidJS - Reactivity - Resources.md",
+    "templates/basic template.md",
+    "note/SolidJS - Introduction - Basics.md"
   ]
 }
