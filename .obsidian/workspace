@@ -4,30 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "df40df04ef243435",
+        "id": "bd3677a8ea6e95c0",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "df40df04ef243435",
+              "leaf": "bd3677a8ea6e95c0",
               "group": null,
-              "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\".obsidian/community-plugins.json\",\"staged\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"main/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "df40df04ef243435",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"main/메인 Main.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":27},\"to\":{\"line\":2,\"ch\":27}},\"scroll\":0}"
             }
           ]
         },
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": ".obsidian/community-plugins.json",
-            "staged": false
+            "file": "main/메인 Main.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -109,7 +104,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "main/메인 Main.md"
+              }
             }
           }
         ]
@@ -141,6 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "main/메인 Main.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "main/메인 Main.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +227,7 @@
     "direction": "horizontal",
     "width": 226.5
   },
-  "active": "df40df04ef243435",
+  "active": "bd3677a8ea6e95c0",
   "lastOpenFiles": [
     "main/메인 Main.md",
     "private/W05D1_MC.md",
