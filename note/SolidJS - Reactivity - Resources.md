@@ -1,14 +1,8 @@
-# SolidJS - Reactivity - Resources
-
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[SolidJS]]]
+---
+title: SolidJS - Reactivity - Resources
+date: 2022-10-10T00:30:55+09:00
+last_modified_at: 2022-10-10T00:30:55+09:00
+---
 
 https://www.solidjs.com/tutorial/async_resources
 
@@ -18,7 +12,7 @@ Resource는 비동기 로딩을 처리하도록 특별히 설계된 특수 시�
 
 이는 async/await 또는 순차 실행 모델을 제공하는 제너레이터와는 정반대다. 목표는 비동기 작업으로 실행을 중단하지 않고, 코드를 덧붙이지 않는 것이다.
 
-Resource는 Promise를 반환하는 비동기 데이터 fetch 함수를 퀄히ㅏ는 소스 시그널에 의해 구동될 수 있다. fetch 함수의 내용은 무엇이든 가능하다. 일반 REST 엔드포인트나 GraphQL 호출처럼 Promise를 생성하는 모든 것을 할 수 있다. Resource는 데이터 로딩 방법에 좌우되지 않으며, Promise에 의해서만 구동된다.
+Resource는 Promise를 반환하는 비동기 데이터 fetch 함수를 쿼리하는 소스 시그널에 의해 구동될 수 있다. fetch 함수의 내용은 무엇이든 가능하다. 일반 REST 엔드포인트나 GraphQL 호출처럼 Promise를 생성하는 모든 것을 할 수 있다. Resource는 데이터 로딩 방법에 좌우되지 않으며, Promise에 의해서만 구동된다.
 
 Resource 시그널의 결과에는 현재 상태를 기반으로 View를 쉽게 컨트롤할 수 있도록 하는 반응형 loading과 error 프로퍼티도 포함된다.
 

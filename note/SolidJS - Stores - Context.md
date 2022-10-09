@@ -1,14 +1,8 @@
-# SolidJS - Stores - Context
-
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[SolidJS]]]
+---
+title: SolidJS - Stores - Context
+date: 2022-10-10T00:20:05+09:00
+last_modified_at: 2022-10-10T00:20:05+09:00
+---
 
 https://www.solidjs.com/tutorial/stores_context
 
@@ -115,7 +109,8 @@ TARGET DECK
 <!--ankiQ-->
 
 counter.jsx
-```tsx {title="counter.jsx"}
+
+```tsx
 import { createSignal } from "solid-js";
 
 export function CounterProvider(props) {
@@ -128,7 +123,8 @@ export function CounterProvider(props) {
 ```
 
 app.jsx
-```tsx {title="main.jsx"}
+
+```tsx
 import { render } from "solid-js/web";
 import { CounterProvider } from "./counter";
 
@@ -151,7 +147,8 @@ Context를 이용하여 위 코드를 수정하라.
 <!--ankiA-->
 
 counter.jsx
-```tsx {title="counter.jsx"}
+
+```tsx
 import { createSignal, createContext, useContext } from "solid-js"; //1
 
 const CounterContext = createContext(); //2
@@ -175,7 +172,8 @@ export function useCounter() { return useContext(CounterContext); }
 4. useContext export
 
 app.jsx
-```tsx {title="main.jsx"}
+
+```tsx
 import { render } from "solid-js/web";
 import Nested from "./nested";
 import { CounterProvider, useCounter } from "./counter"; //1

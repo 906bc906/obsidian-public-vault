@@ -1,12 +1,7 @@
-# github 깃헙
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[git 깃]]]
+---
+title: github 깃헙
+date: 2022-10-10T00:34:42+09:00
+last_modified_at: 2022-10-10T00:34:42+09:00
+---
 
-- [[Github fork 와 template 의 차이]]
+- [Github fork 와 template 의 차이](Github%20fork%20와%20template%20의%20차이.md)

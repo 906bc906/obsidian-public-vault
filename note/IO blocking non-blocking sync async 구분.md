@@ -1,14 +1,8 @@
-# blocking non-blocking sync async 구분
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[to do]]]
-
+---
+title: blocking non-blocking sync async 구분
+tags:
+- todo
+---
 
 <!--ankiQ-->
 blocking, non-blocking 은 {1:호출되는 함수가 바로 리턴하느냐 마느냐} 가 기준이며, sync, async는 {2:호출되는 함수의 작업 완료 여부를 누가 신경쓰느냐} 가 관심사다.

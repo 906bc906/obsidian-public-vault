@@ -1,13 +1,9 @@
-# EdgeDB
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[to do]]]
+---
+title: EdgeDB
+date: 2022-10-10T00:50:18+09:00
+last_modified_at: 2022-10-10T00:50:18+09:00
+---
+
 
 ## 시작
 
@@ -141,7 +137,7 @@ edgedb ui
 
 현재의 '인스턴스' 의 UI를 연 것이고, 이 '인스턴스' 안에서 '데이터베이스'를 만들어볼 수 있음. 일단은 테스트를 위해 기존에 있는 `edgedb`를 사용해보자.
 
-![[Pasted image 20220929122730.png]]
+![Pasted image 20220929122730](attachments/Pasted%20image%2020220929122730.png)
 
 Open REPL 클릭하여 쿼리를 작성해보자.
 

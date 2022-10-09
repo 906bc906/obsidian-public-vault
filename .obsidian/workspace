@@ -4,137 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "7c4489277899e949",
+        "id": "7ea07b343e5f9895",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "7c4489277899e949",
+              "leaf": "7ea07b343e5f9895",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Router - Getting Started.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":17},\"to\":{\"line\":4,\"ch\":17}},\"scroll\":5.675245098039216}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Jekyll 블로그를 Github Pages에 호스팅하기.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":54.82716049382716}"
             },
             {
-              "leaf": "7c4489277899e949",
+              "leaf": "7ea07b343e5f9895",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Router.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":40},\"to\":{\"line\":18,\"ch\":40}},\"scroll\":11.480392156862745}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":20},\"to\":{\"line\":15,\"ch\":20}},\"scroll\":15.654960981047937}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Reactivity - Suspense.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - 튜토리얼.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":43.58033749082905}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":6.329479768786127}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20221008215645.png\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "7c4489277899e949",
+              "leaf": "7ea07b343e5f9895",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/프로그래밍.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/리눅스 (OS 사용).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.607122008172796}"
             },
             {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/소프트웨어 개발 Software development.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Reactivity - Lazy Components.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":0},\"to\":{\"line\":41,\"ch\":0}},\"scroll\":42.87928921568628}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - 튜토리얼.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":41.02787967718268}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":15},\"to\":{\"line\":13,\"ch\":15}},\"scroll\":17.99625748502994}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/특정 브랜치만 pull 하기.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/git 깃.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":19},\"to\":{\"line\":11,\"ch\":19}},\"scroll\":11.657190635451505}"
-            },
-            {
-              "leaf": "7c4489277899e949",
+              "leaf": "7ea07b343e5f9895",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/리눅스 디스플레이 색온도 조절.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":79},\"to\":{\"line\":18,\"ch\":79}},\"scroll\":0}"
             },
             {
-              "leaf": "7c4489277899e949",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20220929122730.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7c4489277899e949",
+              "leaf": "7ea07b343e5f9895",
               "group": null,
               "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20221005001456.png\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "7c4489277899e949",
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/EdgeDB.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":139,\"ch\":79},\"to\":{\"line\":139,\"ch\":79}},\"scroll\":139.60355392156862}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
               "group": null,
               "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20220929122730.png\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/npm vs yarn.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/linux.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":1.5361519607843137}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/ubuntu smb mount.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/linux.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":1.5361519607843137}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/passport로 github oauth 회원가입 및 로그인 구현.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/EdgeDB.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/duckduckgo를 대체하는 검색 엔진.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/diary 일기.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":19},\"to\":{\"line\":9,\"ch\":19}},\"scroll\":1.5361519607843137}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W04D2 회고.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}},\"scroll\":0}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/diary 일기.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/cold start 콜드 스타트.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "7ea07b343e5f9895",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Bun.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":11},\"to\":{\"line\":2,\"ch\":11}},\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "note/SolidJS.md",
+            "file": "note/Jekyll 블로그를 Github Pages에 호스팅하기.md",
             "mode": "source",
             "source": true
           }
@@ -150,7 +150,7 @@
       {
         "id": "6cdce4173865dcea",
         "type": "tabs",
-        "dimension": 47.368421052631575,
+        "dimension": 43.01994301994302,
         "children": [
           {
             "id": "e0fd61f16f5bfcea",
@@ -188,7 +188,7 @@
       {
         "id": "720efdb58c7aef08",
         "type": "tabs",
-        "dimension": 17.543859649122805,
+        "dimension": 18.99335232668566,
         "children": [
           {
             "id": "b68e002931e9213e",
@@ -207,7 +207,7 @@
       {
         "id": "3728b996923343b2",
         "type": "tabs",
-        "dimension": 17.543859649122805,
+        "dimension": 18.99335232668566,
         "children": [
           {
             "id": "157fe9a75f035559",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/SolidJS.md"
+                "file": "note/Jekyll 블로그를 Github Pages에 호스팅하기.md"
               }
             }
           }
@@ -228,7 +228,7 @@
       {
         "id": "7f95be2b78e77997",
         "type": "tabs",
-        "dimension": 17.543859649122805,
+        "dimension": 18.99335232668566,
         "children": [
           {
             "id": "a4c48f6268977fa5",
@@ -252,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note/SolidJS.md",
+                "file": "note/Jekyll 블로그를 Github Pages에 호스팅하기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -306,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/SolidJS.md",
+                "file": "note/Jekyll 블로그를 Github Pages에 호스팅하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,20 +339,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
-  "active": "7c4489277899e949",
+  "active": "7ea07b343e5f9895",
   "lastOpenFiles": [
-    "note/SolidJS - Router.md",
-    "note/SolidJS - Router - Getting Started.md",
-    "note/SolidJS.md",
-    "note/SolidJS - Reactivity - Suspense.md",
-    "note/SolidJS - 튜토리얼.md",
-    "note/SolidJS - Getting Started.md",
-    "note/SolidJS - Stores - Create Store.md",
-    "note/SolidJS - Reactivity - Resources.md",
-    "templates/basic template.md",
-    "note/SolidJS - Introduction - Basics.md"
+    "note/attachments/Pasted image 20221008215645.png",
+    "note/리눅스 (OS 사용).md",
+    "note/리눅스 디스플레이 색온도 조절.md",
+    "note/attachments/Pasted image 20221005001456.png",
+    "note/EdgeDB.md",
+    "note/attachments/Pasted image 20220929122730.png",
+    "note/메인 Main.md",
+    "note/to do.md",
+    "note/Orphan notes.md",
+    "note/Recently Modified.md"
   ]
 }

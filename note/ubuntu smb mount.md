@@ -1,13 +1,9 @@
-# ubuntu smb mount
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[linux]]]
+---
+title: ubuntu smb mount
+date: 2022-10-10T00:53:55+09:00
+last_modified_at: 2022-10-10T00:53:55+09:00
+---
+
 
 ```bash
 sudo mount -t cifs -o user=SMB유저이름,vers=2.0,noperm,password=비밀번호 FTP주소 마운트할로컬경로

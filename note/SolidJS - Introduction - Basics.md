@@ -1,13 +1,11 @@
-# SolidJS - Introduction - Basics
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[SolidJS]]]
+---
+title: SolidJS - Introduction - Basics
+date: 2022-10-10T09:02:13+09:00
+last_modified_at: 2022-10-10T00:05:58+09:00
+---
+
+
+
 
 https://www.solidjs.com/tutorial/introduction_basics
 

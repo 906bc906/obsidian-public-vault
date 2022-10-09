@@ -1,14 +1,8 @@
-# SolidJS - Stores - Immutable Stores
-
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[SolidJS]], [[to do]]]
+---
+title: SolidJS - Stores - Immutable Stores
+date: 2022-10-10T00:20:16+09:00
+last_modified_at: 2022-10-10T00:20:16+09:00
+---
 
 https://www.solidjs.com/tutorial/stores_immutable
 

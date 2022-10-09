@@ -1,13 +1,8 @@
-# Github fork 와 template 의 차이
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[to do]]]
+---
+title: Github fork 와 template 의 차이
+date: 2022-10-10T00:34:46+09:00
+last_modified_at: 2022-10-10T00:34:46+09:00
+---
 
 https://stackoverflow.com/questions/62082123/github-what-is-the-difference-between-template-and-fork-concepts-and-when-to-us
 

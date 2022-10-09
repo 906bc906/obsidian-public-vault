@@ -1,4 +1,8 @@
-# SolidJS - Getting Started
+---
+title: SolidJS - Getting Started
+date: 2022-10-10T00:31:24+09:00
+last_modified_at: 2022-10-10T00:31:24+09:00
+---
 
 
 ## 참고 주소

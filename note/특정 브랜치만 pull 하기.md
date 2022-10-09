@@ -1,15 +1,9 @@
-# 특정 브랜치만 pull 하기
+---
+title: 특정 브랜치만 pull 하기
+date: 2022-10-10T00:34:29+09:00
+last_modified_at: 2022-10-10T00:34:29+09:00
+---
 
-
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[git 깃]]]
 
 TARGET DECK
 전체::개발::GIT

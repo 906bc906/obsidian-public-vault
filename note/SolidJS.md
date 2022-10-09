@@ -1,19 +1,18 @@
-# SolidJS
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[to do]]]
+---
+title: SolidJS
+date: 2022-10-07T08:26:19+09:00
+tags:
+- todo
+last_modified_at: 2022-10-09T23:55:57+09:00
+---
+
+
 
 솔리드는 반응형 웹 앱을 만들기 위한 JS 프레임워크다.
 
-- [[SolidJS - 튜토리얼]]
-- [[SolidJS - Getting Started]]
-- [[SolidJS - Router]]
+- [SolidJS - 튜토리얼](SolidJS%20-%20튜토리얼.md)
+- [SolidJS - Getting Started](SolidJS%20-%20Getting%20Started.md)
+- [SolidJS - Router](SolidJS%20-%20Router.md)
 
 ## 시작
 

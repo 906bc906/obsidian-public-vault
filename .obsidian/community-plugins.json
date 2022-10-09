@@ -12,5 +12,7 @@
   "obsidian-to-anki-plugin",
   "obsidian-git",
   "multi-column-markdown",
-  "obsidian-file-info-plugin"
+  "obsidian-file-info-plugin",
+  "templater-obsidian",
+  "update-time-on-edit"
 ]

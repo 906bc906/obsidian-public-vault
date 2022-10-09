@@ -1,21 +1,23 @@
-# 메인 Main
-## To-do
-- [ ] Gitlab 크레덴셜 토큰으로 바꿀 것 (지금 평문 보관중임)
-- [ ] Github 토큰 권한 최소화하여 이관
+---
+title: 메인 Main
+date: 2022-10-10T07:52:26+09:00
+last_modified_at: 2022-10-10T01:29:33+09:00
+---
+
+[about 906bc906](about%20906bc906.md)
+
 ## Public
-- [[소프트웨어 개발 Software development]]
-- [[건강]]
+
+- [소프트웨어 개발 Software development](소프트웨어%20개발%20Software%20development.md)
+
 ## Private
 
-**Pinned list**
-- [[모든 노트 All notes]]
-- [[태그 없는 노트 no tag]]
+[Private notes](../private/Private%20notes.md)
 
-![[Recentrly Modified]]
+## (for obsidian)
 
-```dataview
-TABLE tags
-FROM -"templates"
-SORT file.mtime desc
-WHERE contains(tags, [[to do]])
-```
+![to do](to%20do.md)
+
+![Recently Modified](Recently%20Modified.md)
+
+![Orphan notes](Orphan%20notes.md)

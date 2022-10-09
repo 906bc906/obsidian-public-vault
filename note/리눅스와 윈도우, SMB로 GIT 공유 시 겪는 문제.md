@@ -1,13 +1,8 @@
-# 리눅스와 윈도우, SMB로 GIT 공유 시 겪는 문제
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[git 깃]]]
+---
+title: 리눅스와 윈도우, SMB로 GIT 공유 시 겪는 문제
+date: 2022-10-10T00:38:53+09:00
+last_modified_at: 2022-10-10T00:38:53+09:00
+---
 
 컴퓨터는 윈도우, 노트북은 리눅스를 사용하고 있고, 간이NAS에 repo를 두고 OS를 번갈아가면서 쓰고 있는데 좀 많은 문제를 겪고 있다.
 

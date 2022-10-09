@@ -1,10 +1,10 @@
-# javascript decorator
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[to do]]]
+---
+title: javascript decorator
+date: 2022-10-06T22:46:09+09:00
+draft: true
+tags:
+- todo
+last_modified_at: 2022-10-09T23:55:11+09:00
+---
+
+

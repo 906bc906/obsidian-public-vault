@@ -1,13 +1,8 @@
-# SolidJS - Bindings - Forwarding Refs
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[SolidJS]]]
+---
+title: SolidJS - Bindings - Forwarding Refs
+date: 2022-10-10T00:18:45+09:00
+last_modified_at: 2022-10-10T00:18:45+09:00
+---
 
 https://www.solidjs.com/tutorial/bindings_forward_refs
 

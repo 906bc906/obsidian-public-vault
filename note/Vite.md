@@ -1,13 +1,11 @@
-# Vite
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[to do]]]
+---
+title: Vite
+tags:
+- todo
+date: 2022-10-10T01:08:20+09:00
+last_modified_at: 2022-10-10T01:08:20+09:00
+---
+
 
 웹팩보다 빠른 프론트엔드 도구.
 

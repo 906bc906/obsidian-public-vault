@@ -1,14 +1,8 @@
-# SolidJS - Stores - Create Store
-
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[SolidJS]]]
+---
+title: SolidJS - Stores - Create Store
+date: 2022-10-10T00:19:52+09:00
+last_modified_at: 2022-10-10T00:19:52+09:00
+---
 
 https://www.solidjs.com/tutorial/stores_createstore
 
@@ -104,7 +98,7 @@ setState('counter', c => c + 1);
 const [state, setState] = createStore({
   counter: 2,
   list: [
-    { id: 23, title: 'Birds' }
+    { id: 23, title: 'Birds' },
     { id: 27, title: 'Fish' }
   ]
 });
@@ -129,18 +123,18 @@ setState('list', l => [...l, {id: 43, title: 'Marsupials'}]);
 const [state, setState] = createStore({
   counter: 2,
   list: [
-    { id: 23, title: 'Birds' }
+    { id: 23, title: 'Birds' },
     { id: 27, title: 'Fish' }
   ]
 });
 ```
 
-위 Solid 코드에서, list의 index 2 (3번째) 요소에 read: true 프로퍼티를 추가하는 코드를 작성하라.
+위 Solid 코드에서, list의 index 1 (2번째) 요소에 read: true 프로퍼티를 추가하는 코드를 작성하라.
 
 <!--ankiA-->
 
 ```tsx
-setState('list', 2, 'read', true);
+setState('list', 1, 'read', true);
 ```
 
 <!--ankiE-->
@@ -153,8 +147,8 @@ setState('list', 2, 'read', true);
 ```tsx
 const [state, setState] = createStore({
   todos: [
-    { task: 'Finish work', completed: false }
-    { task: 'Go grocery shopping', completed: false }
+    { task: 'Finish work', completed: false },
+    { task: 'Go grocery shopping', completed: false },
     { task: 'Make dinner', completed: false }
   ]
 });
@@ -178,9 +172,8 @@ setState('todos', [0, 2], 'completed', true);
 ```tsx
 const [state, setState] = createStore({
   todos: [
-    { task: 'Finish work', completed: false }
-    { task: 'Go grocery shopping', completed: false }
-    { task: 'Make dinner', completed: false }
+    { task: 'Finish work', completed: false },
+    { task: 'Go grocery shopping', completed: false },    { task: 'Make dinner', completed: false }
   ]
 });
 ```
@@ -203,8 +196,8 @@ setState('todos', { from: 0, to: 1 }, 'completed', c => !c);
 ```tsx
 const [state, setState] = createStore({
   todos: [
-    { task: 'Finish work', completed: false }
-    { task: 'Go grocery shopping', completed: false }
+    { task: 'Finish work', completed: false },
+    { task: 'Go grocery shopping', completed: true },
     { task: 'Make dinner', completed: false }
   ]
 });
@@ -228,8 +221,8 @@ setState('todos', todo => todo.completed, 'task', t => t + '!')
 ```tsx
 const [state, setState] = createStore({
   todos: [
-    { task: 'Finish work', completed: false }
-    { task: 'Go grocery shopping', completed: false }
+    { task: 'Finish work', completed: false },
+    { task: 'Go grocery shopping', completed: false },
     { task: 'Make dinner', completed: false }
   ]
 });

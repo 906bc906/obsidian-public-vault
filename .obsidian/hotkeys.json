@@ -182,5 +182,13 @@
       "key": "M"
     }
   ],
-  "obsidian-git:push": []
+  "obsidian-git:push": [],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
 }

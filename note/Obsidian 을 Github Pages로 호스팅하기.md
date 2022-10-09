@@ -1,13 +1,8 @@
-# Obsidian 을 Github Pages로 호스팅하기
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[obsidian 옵시디언]], [[github 깃헙]]]
+---
+title: Obsidian 을 Github Pages로 호스팅하기
+date: 2022-10-10T00:57:20+09:00
+last_modified_at: 2022-10-10T00:57:20+09:00
+---
 
 선요약
 

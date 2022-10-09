@@ -15,8 +15,9 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "tabSize": 2,
-  "useMarkdownLinks": false,
-  "strictLineBreaks": true
+  "useMarkdownLinks": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true
 }

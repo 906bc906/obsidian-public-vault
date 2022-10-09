@@ -1,12 +1,8 @@
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[SolidJS]]]
+---
+title: SolidJS - Router
+date: 2022-10-10T00:32:30+09:00
+last_modified_at: 2022-10-10T00:32:30+09:00
+---
 
 https://github.com/solidjs/solid-router
 
@@ -16,4 +12,10 @@ Solid Router는 SolidJS를 위한, 클라이언트에서 렌더링하든 서버�
 
 Solid의 모든 SSR 메서드를 지원하며 Solid의 transisions이 탑재되어 있으므로, suspense, resources, lazy components 를 자유롭게 사용할 수 있다. Solid Router로 병렬로 로드되는 데이터 함수를 정의할 수도 있다.
 
-- [[SolidJS - Router - Getting Started]]
+- [SolidJS - Router - Getting Started](SolidJS%20-%20Router%20-%20Getting%20Started.md)
+- [SolidJS - Router - Create Links to Your Routes](SolidJS%20-%20Router%20-%20Create%20Links%20to%20Your%20Routes.md)
+- [SolidJS - Router - Dynamic Routes](SolidJS%20-%20Router%20-%20Dynamic%20Routes.md)
+- [SolidJS - Router - Data functions](SolidJS%20-%20Router%20-%20Data%20functions.md)
+- SolidJS - Router - Nested Routes
+- SolidJS - Router - Hash Mode Router
+- SolidJS - Router - Router Primitives

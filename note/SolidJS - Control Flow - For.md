@@ -1,13 +1,9 @@
-# SolidJS - Control Flow - For
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[SolidJS]]]
+---
+title: SolidJS - Control Flow - For
+date: 2022-10-10T00:16:06+09:00
+last_modified_at: 2022-10-10T00:16:06+09:00
+---
+
 
 https://www.solidjs.com/tutorial/flow_for
 
@@ -67,6 +63,8 @@ TARGET DECK
 위 solid tsx 코드에서 li 컴포넌트를 cats() 로 전개하고 싶다면 어떻게 해야겠는가?
 
 cats()는 배열임이 보장되어있다.
+
+Index 컴포넌트는 사용하지 않는다.
 
 <!--ankiA-->
 

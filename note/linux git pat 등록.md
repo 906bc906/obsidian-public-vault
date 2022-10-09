@@ -1,13 +1,8 @@
-# linux git pat 등록
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::[[git 깃]], [[linux]]]
+---
+title: linux git pat 등록
+date: 2022-10-10T00:52:55+09:00
+last_modified_at: 2022-10-10T00:52:55+09:00
+---
 
 ## 왜
 

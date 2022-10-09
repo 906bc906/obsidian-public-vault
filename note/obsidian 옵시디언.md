@@ -1,13 +1,7 @@
-# obsidian 옵시디언
-<!--Basic Template V0.0.2 Start -->
-```dataview
-TABLE WITHOUT ID  file.link AS title, tags
-FROM -"templates"
-SORT file.mtime, tags desc
-WHERE contains(tags, [[]])
-```
-<!--Basic Template V0.0.2 End -->
-[tags::]
+---
+title: obsidian 옵시디언
+date: 2022-10-10T00:55:09+09:00
+last_modified_at: 2022-10-10T00:55:09+09:00
+---
 
-- [[여러 마크다운 파일을 한번에 find and replace 하는 방법]]]
-- [[Obsidian 을 Github Pages로 호스팅하기]]
+- [Obsidian 을 Github Pages로 호스팅하기](Obsidian%20을%20Github%20Pages로%20호스팅하기.md)
