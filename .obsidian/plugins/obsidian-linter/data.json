@@ -173,9 +173,11 @@
       "Two Space Linebreak": false
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "displayChanged": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "templates"
+  ],
   "linterLocale": "system-default",
   "logLevel": 4,
   "lintCommands": []

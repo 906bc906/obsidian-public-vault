@@ -4,137 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2fb3e597bd7796a5",
+        "id": "fb2ac9620766c7cf",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "2fb3e597bd7796a5",
+              "leaf": "fb2ac9620766c7cf",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/리눅스 (OS 사용).md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/리눅스 디스플레이 색온도 조절.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/리눅스와 윈도우, SMB로 GIT 공유 시 겪는 문제.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/git 깃.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/javascript decorator.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Control Flow - Portal.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/SolidJS - Reactivity - Untrack.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W05D1_MC.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/W04D3_MC.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/Private notes.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/부스트캠프 boostcamp.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\".github/workflows/notify.yaml\",\"staged\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/프로그래밍.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/about 906bc906.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/특정 브랜치만 pull 하기.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/소프트웨어 개발 Software development.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/모든 노트 All notes.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/리눅스와 윈도우, SMB로 GIT 공유 시 겪는 문제.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "2fb3e597bd7796a5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/리눅스 디스플레이 색온도 조절.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "note/리눅스 (OS 사용).md",
+            "file": "note/메인 Main.md",
             "mode": "preview",
             "source": true
           }
@@ -150,7 +36,7 @@
       {
         "id": "6cdce4173865dcea",
         "type": "tabs",
-        "dimension": 43.01994301994302,
+        "dimension": 53.10668229777256,
         "children": [
           {
             "id": "e0fd61f16f5bfcea",
@@ -186,28 +72,9 @@
         ]
       },
       {
-        "id": "720efdb58c7aef08",
-        "type": "tabs",
-        "dimension": 18.99335232668566,
-        "children": [
-          {
-            "id": "b68e002931e9213e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "tlfItemView",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "3728b996923343b2",
         "type": "tabs",
-        "dimension": 18.99335232668566,
+        "dimension": 23.446658851113718,
         "children": [
           {
             "id": "157fe9a75f035559",
@@ -219,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/리눅스 (OS 사용).md"
+                "file": "note/메인 Main.md"
               }
             }
           }
@@ -228,7 +95,7 @@
       {
         "id": "7f95be2b78e77997",
         "type": "tabs",
-        "dimension": 18.99335232668566,
+        "dimension": 23.446658851113718,
         "children": [
           {
             "id": "a4c48f6268977fa5",
@@ -252,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note/리눅스 (OS 사용).md",
+                "file": "note/메인 Main.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,6 +162,7 @@
       {
         "id": "2fa4efc4df6917c0",
         "type": "tabs",
+        "dimension": 20.158102766798418,
         "children": [
           {
             "id": "3863fc42b3dc9717",
@@ -306,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/리눅스 (OS 사용).md",
+                "file": "note/메인 Main.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,8 +188,45 @@
         ]
       },
       {
+        "id": "c5a0b279a3f0134a",
+        "type": "tabs",
+        "dimension": 40.019762845849804,
+        "children": [
+          {
+            "id": "7a0244a6d72f14cd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "7a0244a6d72f14cd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/to do.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "7a0244a6d72f14cd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/to do.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "cb08a75c9059ba20",
         "type": "tabs",
+        "dimension": 39.822134387351774,
         "children": [
           {
             "id": "c23f0311eb52e19a",
@@ -341,17 +246,17 @@
     "direction": "horizontal",
     "width": 226.5
   },
-  "active": "2fb3e597bd7796a5",
+  "active": "fb2ac9620766c7cf",
   "lastOpenFiles": [
-    "note/리눅스 디스플레이 색온도 조절.md",
-    "note/리눅스와 윈도우, SMB로 GIT 공유 시 겪는 문제.md",
-    "note/git 깃.md",
-    "note/javascript decorator.md",
-    "note/SolidJS.md",
-    "note/SolidJS - Control Flow - Portal.md",
-    "note/SolidJS - Reactivity - Untrack.md",
-    "private/W05D1_MC.md",
-    "private/W04D3_MC.md",
-    "private/Private notes.md"
+    "note/블로그를 만들기까지.md",
+    "note/메인 Main.md",
+    "note/to do.md",
+    "note/to do dataview.md",
+    "note/Jekyll 블로그를 Github Pages에 호스팅하기.md",
+    "note/attachments/Pasted image 20221011010907.png",
+    "note/attachments/Pasted image 20221011010841.png",
+    "note/obsidian 옵시디언.md",
+    "note/블로그.md",
+    "note/소프트웨어 개발 Software development.md"
   ]
 }

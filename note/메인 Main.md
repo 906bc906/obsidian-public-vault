@@ -17,7 +17,7 @@ toc: false
 
 ## (for obsidian)
 
-![to do](to%20do.md)
+![to do dataview](to%20do%20dataview.md)
 
 ![Recently Modified](Recently%20Modified.md)
 

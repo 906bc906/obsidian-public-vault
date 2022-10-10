@@ -9,7 +9,8 @@
     "fullwidth",
     "wide",
     "hideribbon",
-    "boldwhiten"
+    "boldwhiten",
+    "small-side-header"
   ],
   "baseFontSize": 17
 }
