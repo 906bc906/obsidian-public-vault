@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Getting Started
 date: 2022-10-10T00:31:24+09:00
-last_modified_at: 2022-10-10T00:31:24+09:00
+last_modified_at: 2022-10-10T19:12:01+09:00
 ---
 
 
@@ -9,6 +9,7 @@ last_modified_at: 2022-10-10T00:31:24+09:00
 https://docs.solidjs.com/tutorials/getting-started-with-solid/installing-solid
 
 ## 템플릿 설치
+
 ```bash
 npx degit solidjs/templates/ts my-app
 cd my-app

@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Stores - Without Context
 date: 2022-10-10T00:20:38+09:00
-last_modified_at: 2022-10-10T00:20:38+09:00
+last_modified_at: 2022-10-10T19:12:33+09:00
 ---
 
 

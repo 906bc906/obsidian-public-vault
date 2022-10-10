@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Bindings - ClassList
 date: 2022-10-10T00:18:30+09:00
-last_modified_at: 2022-10-10T00:18:30+09:00
+last_modified_at: 2022-10-10T19:12:35+09:00
 ---
 
 https://www.solidjs.com/tutorial/bindings_classlist

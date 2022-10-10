@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Control Flow - Show
 date: 2022-10-10T00:15:54+09:00
-last_modified_at: 2022-10-10T00:15:54+09:00
+last_modified_at: 2022-10-10T19:12:01+09:00
 ---
 
 
@@ -78,6 +78,7 @@ TARGET DECK
 전체::개발::solid
 
 <!--ankiQ-->
+
 ```tsx
   return (
     <>
@@ -110,6 +111,7 @@ TARGET DECK
 
 
 <!--ankiQ-->
+
 ```tsx
   return (
     <>

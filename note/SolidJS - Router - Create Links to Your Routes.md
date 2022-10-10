@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Router - Create Links to Your Routes
 date: 2022-10-10T00:31:48+09:00
-last_modified_at: 2022-10-10T00:31:48+09:00
+last_modified_at: 2022-10-10T19:12:00+09:00
 ---
 
 https://github.com/solidjs/solid-router#create-links-to-your-routes
@@ -44,7 +44,6 @@ export default function App() {
 | noScroll | boolean | If true, turn off the default behavior of scrolling to the top of the new page                                                                                                           |
 | replace  | boolean | If true, don't add a new entry to the browser history. (By default, the new page will be added to the browser history, so pressing the back button will take you to the previous route.) |
 | state    | unknown | [Push this value](https://developer.mozilla.org/en-US/docs/Web/API/History/pushState) to the history stack when navigating  |
-
 
 `NavLink` additionally has:
 

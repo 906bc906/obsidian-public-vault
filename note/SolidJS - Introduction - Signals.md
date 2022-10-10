@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Introduction - Signals
 date: 2022-10-10T00:08:22+09:00
-last_modified_at: 2022-10-10T00:08:22+09:00
+last_modified_at: 2022-10-10T19:12:01+09:00
 ---
 
 https://www.solidjs.com/tutorial/introduction_signals
@@ -13,6 +13,7 @@ Signal은 변경되는 값을 포함한다. 시그널의 값을 변경하면, �
 ```ts
 const [count, setCount] = createSignal(0);
 ```
+
 count는 getter, setCount는 setter, createSignal 의 인자인 0 은 초기값을 의미한다. createSignal의 첫번째 반환값인 count가 변수가 아니라 값을 반환하는 함수임에 유의한다.
 
 JSX에서 count 를 이용하여 값을 받아오는 부분은, 추후에 setCount로 시그널의 값이 변경되었을 때 업데이트 된다.

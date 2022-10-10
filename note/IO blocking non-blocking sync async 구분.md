@@ -1,7 +1,9 @@
 ---
-title: blocking non-blocking sync async 구분
+title: IO blocking non-blocking sync async 구분
 tags:
 - todo
+date: 2022-10-10T00:40:42+09:00
+last_modified_at: 2022-10-10T19:12:02+09:00
 ---
 
 <!--ankiQ-->

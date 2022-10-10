@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Props - Children
 date: 2022-10-10T00:19:30+09:00
-last_modified_at: 2022-10-10T00:19:30+09:00
+last_modified_at: 2022-10-10T19:12:01+09:00
 ---
 
 https://www.solidjs.com/tutorial/props_children
@@ -32,7 +32,6 @@ MyComp({
 이러한 이유로, Solid는 `children` 헬퍼를 제공한다. 이 메서드는 `children` prop에 대해 memo를 생성하고, 자식과 직접 인터랙션을 할 수 있도록 중첩된 자식들에 대해서도 리액티브한 참조를 제공한다.
 
 아래 예시를 통해 props.children 과 children 헬퍼에 대해 어느 정도 감을 잡을 수 있다.
-
 
 ```tsx
 //main.jsx

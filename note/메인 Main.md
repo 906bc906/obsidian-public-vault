@@ -1,7 +1,8 @@
 ---
 title: 메인 Main
-date: 2022-10-10T07:52:26+09:00
-last_modified_at: 2022-10-10T01:29:33+09:00
+date: 2022-10-10T00:52:26+09:00
+last_modified_at: 2022-10-10T19:12:32+09:00
+toc: false
 ---
 
 [about 906bc906](about%20906bc906.md)

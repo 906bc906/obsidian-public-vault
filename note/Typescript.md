@@ -3,7 +3,7 @@ title: Typescript
 tags:
 - todo
 date: 2022-10-10T01:07:51+09:00
-last_modified_at: 2022-10-10T01:07:51+09:00
+last_modified_at: 2022-10-10T19:12:00+09:00
 ---
 
 TARGET DECK
@@ -108,6 +108,7 @@ let msg = "hello there!" //msg: string
 값으로부터 추론되는 것들은 굳이 타입 표기를 적지 않는 것이 가장 좋다.
 
 ### 변수 타입 지정
+
 ```typescript
 let name:string = "aaa";
 ```
@@ -198,7 +199,6 @@ console.log(getSize([1, 2, 3]));
 console.log(getSize<string>(["1", "2", "3"]));
 ```
 
-
 #### Array tuple
 
 ```typescript
@@ -207,6 +207,7 @@ let john:Member = [1, true];
 ```
 
 #### class
+
 ```typescript
 class User {
   name:string;
@@ -274,6 +275,7 @@ type Point = {
 
 1. 오브젝트의 모양을 기술하기 위해 사용될 수 있으나 신택스가 다르다.
 2. 인터페이스와 다르게, type alias는 primitives, union, tuple 에도 사용될 수 있다.
+
 ```typescript
 // primitive
 type Name = string;
@@ -288,7 +290,9 @@ type PartialPoint = PartialPointX | PartialPointY;
 // tuple
 type Data = [number, string];
 ```
+
 3. 확장을 위한 신택스가 다르다.
+
 ```typescript
 interface PartialPointX { x: number; }
 interface Point extends PartialPointX { y: number; }
@@ -299,7 +303,8 @@ type PartialPointX = { x: number; };
 type Point = PartialPointX & { y: number; };
 ```
 
-4. type alias에서 union 사용 시 class implement에 사용할 수 없다. 
+1. type alias에서 union 사용 시 class implement에 사용할 수 없다. 
+
 ```typescript
 type PartialPoint = { x: number; } | { y: number; };
 
@@ -345,4 +350,3 @@ https://www.youtube.com/watch?v=17Oh028Jpis&list=PLZKTXPmaJk8KhKQ_BILr1JKCJbR0EG
 	- 타입스크립트 
 - [type-challenges/type-challenges: Collection of TypeScript type challenges with online judge](https://github.com/type-challenges/type-challenges)
 	- 타입 정의 문제들
-- 

@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Introduction - Components
 date: 2022-10-10T00:07:39+09:00
-last_modified_at: 2022-10-10T00:07:39+09:00
+last_modified_at: 2022-10-10T19:12:01+09:00
 ---
 
 https://www.solidjs.com/tutorial/introduction_components
@@ -25,4 +25,3 @@ function App() {
 //./nested
 export default () => <p>This is a Paragraph</p>
 ```
-

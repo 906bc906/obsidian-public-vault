@@ -1,7 +1,7 @@
 ---
 title: Jekyll 블로그를 Github Pages에 호스팅하기
 date: 2022-10-10T00:36:56+09:00
-last_modified_at: 2022-10-10T00:36:56+09:00
+last_modified_at: 2022-10-10T19:12:02+09:00
 tags:
 - todo
 ---
@@ -31,7 +31,6 @@ https://www.ruby-lang.org/en/documentation/installation/#apt
 ```bash
 sudo apt install ruby-full
 ```
-
 
 ### RubyGems
 
@@ -158,4 +157,54 @@ feed:
 
 ### 댓글
 
-utterances 와 giscus
+giscus를 사용하였다.
+
+### 마크다운 엔진
+
+jekyll이 기본적으로 사용하는 kramdown이 문제가 좀 많다. 난데없이 헤더를 리스트 안에 넣는다던가 링크가 테이블로 인식 되는 등...
+
+다른 마크다운 엔진이 있나 찾아보았다.
+
+https://jekyllrb.com/docs/configuration/markdown/
+
+다른 옵션으로는 commonmark가 있고, 적어도 렌더링 결과가 깃헙 마크다운 프리뷰와는 일치해야 한다고 생각해서 commonmark ghpages를 선택.
+
+https://github.com/github/jekyll-commonmark-ghpages
+
+설치 방법은 위 주소의 readme에 적혀있고, 정상적으로 출력되는 것을 확인.
+
+### double curly brace를 liquid template 으로 인식
+
+`{{` 가 마크다운의 코드 블럭에 들어간 것만으로도 리퀴트 템플릿 언어로 인식하는 문제가 발생했다. 문서의 해당 부분들은 아예 렌더링되지 않고 증발한다.
+
+해결법으로는 `{% raw %}`, `{% endraw %}` 로 감싸는 것인데, 아무리 봐도 현실적인 해결법이 아니다. 마크다운의 모든 코드 블럭을 저걸로 감싸는 것도 말이 안되고, 리퀴드 때문에 발생한 문젠데 표준 마크다운 언어로 작성된 문서의 틀을 깨는 것도  탐탁치 않다. 무엇보다 코드 블럭 쓸 때마다 저걸 할 생각하니 갑갑하다.
+
+https://jekyllrb.com/docs/liquid/tags/
+
+다행히 Jekyll 4.0부터 `render_with_liquid: false` 로 마크다운 문서를 liquid로 파싱하는 것을 비활성화할 수 있다. 대신 liquid 템플릿 언어로 인한 혜택도 못 보므로 조심해서 사용해야 한다.
+
+깃헙 페이지가 기본으로 제공하는 루비 버전은 [2022년 10월 10일 기준 3.9.2](https://pages.github.com/versions/)이므로 이 기능을 지원하지 않는다.
+
+### timezone
+
++00:00 기준으로 날짜가 표시되었음.
+
+https://jekyllrb.com/docs/configuration/options/
+
+타임존을 설정해줘야 했다. 한국은 `Asia/Seoul`
+
+타임존 목록은 [위키피디아 참고.](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+
+
+### baseurl, 페이지 링크
+
+baseurl 이 `jekyll-blog` 로 설정되어있는데, 페이지네이터의 페이지는 baseurl을 무시하고 절대 주소를 사용하고 있었다.
+
+페이지 주소가 꼬였고, 절대 주소를 쓰는 페이지네이터 템플릿을 상대 주소로 바꿔야 했음.
+
+```html
+<a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a>
+```
+
+`remove_first:'/'` 가 앞 부분의 `/` 를 제거해주는 템플릿.
+

@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Bindings - Forwarding Refs
 date: 2022-10-10T00:18:45+09:00
-last_modified_at: 2022-10-10T00:18:45+09:00
+last_modified_at: 2022-10-10T19:12:35+09:00
 ---
 
 https://www.solidjs.com/tutorial/bindings_forward_refs

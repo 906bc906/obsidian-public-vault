@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Router - Getting Started
 date: 2022-10-10T00:31:40+09:00
-last_modified_at: 2022-10-10T00:31:40+09:00
+last_modified_at: 2022-10-10T19:12:00+09:00
 ---
 
 ## Set Up the Router
@@ -48,7 +48,7 @@ export default function App() {
 }
 ```
 
-2. route 에 사용되는 컴포넌트들을 lazy 로딩하세요.
+1. route 에 사용되는 컴포넌트들을 lazy 로딩하세요.
 
 ```tsx
 import { lazy } from "solid-js";
@@ -117,4 +117,3 @@ render(
   document.getElementById("app")
 );
 ```
-

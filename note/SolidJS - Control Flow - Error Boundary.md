@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Control Flow - Error Boundary
 date: 2022-10-10T00:17:31+09:00
-last_modified_at: 2022-10-10T00:17:31+09:00
+last_modified_at: 2022-10-10T19:12:01+09:00
 ---
 
 https://www.solidjs.com/tutorial/flow_error_boundary
@@ -29,6 +29,7 @@ TARGET DECK
 ---
 
 <!--ankiQ-->
+
 ```tsx
 const Broken = (props) => {
   throw new Error("Oh No");

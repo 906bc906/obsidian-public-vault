@@ -3,7 +3,7 @@ title: SolidJS
 date: 2022-10-07T08:26:19+09:00
 tags:
 - todo
-last_modified_at: 2022-10-09T23:55:57+09:00
+last_modified_at: 2022-10-10T19:12:00+09:00
 ---
 
 
@@ -30,6 +30,7 @@ npm run dev # or yarn or pnpm
 컴포넌트는 유저 인터페이스의 일부를 정의하는 함수.
 
 HelloWorld.tsx
+
 ```tsx
 export function HelloWorld() {
   return <div>Hello World!</div>;

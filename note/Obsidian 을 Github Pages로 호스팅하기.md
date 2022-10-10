@@ -1,7 +1,7 @@
 ---
 title: Obsidian 을 Github Pages로 호스팅하기
 date: 2022-10-10T00:57:20+09:00
-last_modified_at: 2022-10-10T00:57:20+09:00
+last_modified_at: 2022-10-10T19:12:35+09:00
 ---
 
 선요약

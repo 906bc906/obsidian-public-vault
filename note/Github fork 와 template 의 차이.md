@@ -1,7 +1,7 @@
 ---
 title: Github fork 와 template 의 차이
 date: 2022-10-10T00:34:46+09:00
-last_modified_at: 2022-10-10T00:34:46+09:00
+last_modified_at: 2022-10-10T19:12:35+09:00
 ---
 
 https://stackoverflow.com/questions/62082123/github-what-is-the-difference-between-template-and-fork-concepts-and-when-to-us

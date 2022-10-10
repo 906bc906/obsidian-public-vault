@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Stores - Create Store
 date: 2022-10-10T00:19:52+09:00
-last_modified_at: 2022-10-10T00:19:52+09:00
+last_modified_at: 2022-10-10T19:12:33+09:00
 ---
 
 https://www.solidjs.com/tutorial/stores_createstore

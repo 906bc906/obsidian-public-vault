@@ -1,7 +1,7 @@
 ---
 title: EdgeDB
 date: 2022-10-10T00:50:18+09:00
-last_modified_at: 2022-10-10T00:50:18+09:00
+last_modified_at: 2022-10-10T19:12:02+09:00
 ---
 
 
@@ -158,7 +158,6 @@ set {
 };
 ```
 
-
 ```
 select Movie {
   title,
@@ -199,6 +198,7 @@ https://www.edgedb.com/docs/guides/deployment/index#ref-guide-deployment
 - EdgeDB는..
 	- 테이블들간의 연결을 link 로 나타낸다.
 	- JOIN을 쓸 필요가 없다.
+
 ```
 select Movie {
   title,

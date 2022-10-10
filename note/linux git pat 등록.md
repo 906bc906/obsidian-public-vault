@@ -1,7 +1,7 @@
 ---
 title: linux git pat 등록
 date: 2022-10-10T00:52:55+09:00
-last_modified_at: 2022-10-10T00:52:55+09:00
+last_modified_at: 2022-10-10T19:12:33+09:00
 ---
 
 ## 왜

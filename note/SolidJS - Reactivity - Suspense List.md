@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Reactivity - Suspense List
 date: 2022-10-10T00:31:01+09:00
-last_modified_at: 2022-10-10T00:58:03+09:00
+last_modified_at: 2022-10-10T19:12:01+09:00
 ---
 
 https://www.solidjs.com/tutorial/async_suspense_list
@@ -82,7 +82,7 @@ const ProfilePage = (props) => (
 2. backwards
 	- 뒤에 있는 Suspense 부터 표시된다.
 	- 예제 상황에서는 두번째 `Suspense`가 2초에 보이고, 그 뒤에 곧바로 대기하고 있던 첫번째 `Suspense`가 보일 것이다.
-1. together
+3. together
 	- 모든 Suspense가 해소되어야 표시된다.
 	- 예제 상황에서는 첫번째, 두번째 `Suspense`가 2초에 보일 것이다.
 

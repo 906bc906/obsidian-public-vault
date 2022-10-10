@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Reactivity - Transitions
 date: 2022-10-10T00:31:11+09:00
-last_modified_at: 2022-10-10T00:31:11+09:00
+last_modified_at: 2022-10-10T19:12:34+09:00
 ---
 
 https://www.solidjs.com/tutorial/async_transitions
