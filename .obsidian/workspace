@@ -4,13 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "fb2ac9620766c7cf",
+        "id": "cb40299e674f401e",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "cb40299e674f401e",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"note/attachments/Pasted image 20221011023151.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cb40299e674f401e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/블로그를 만들기까지.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":29.893382352941178}"
+            },
+            {
+              "leaf": "cb40299e674f401e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":6.363636363636364}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "note/블로그를 만들기까지.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "16a7952a71b182c1",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "fb2ac9620766c7cf",
+              "leaf": "16a7952a71b182c1",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
@@ -86,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/메인 Main.md"
+                "file": "note/블로그를 만들기까지.md"
               }
             }
           }
@@ -119,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note/메인 Main.md",
+                "file": "note/블로그를 만들기까지.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +197,7 @@
       {
         "id": "2fa4efc4df6917c0",
         "type": "tabs",
-        "dimension": 20.158102766798418,
+        "dimension": 33.497536945812804,
         "children": [
           {
             "id": "3863fc42b3dc9717",
@@ -174,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/메인 Main.md",
+                "file": "note/블로그를 만들기까지.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +225,7 @@
       {
         "id": "c5a0b279a3f0134a",
         "type": "tabs",
-        "dimension": 40.019762845849804,
+        "dimension": 33.2512315270936,
         "children": [
           {
             "id": "7a0244a6d72f14cd",
@@ -201,8 +236,8 @@
                 {
                   "leaf": "7a0244a6d72f14cd",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/to do.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/to do.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":7},\"to\":{\"line\":0,\"ch\":7}}}"
                 },
                 {
                   "leaf": "7a0244a6d72f14cd",
@@ -216,7 +251,7 @@
               "type": "markdown",
               "state": {
                 "file": "note/to do.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -224,17 +259,13 @@
         ]
       },
       {
-        "id": "cb08a75c9059ba20",
+        "id": "3b45ed0d0c673ea4",
         "type": "tabs",
-        "dimension": 39.822134387351774,
+        "dimension": 33.2512315270936,
         "children": [
           {
-            "id": "c23f0311eb52e19a",
+            "id": "3da364ba26843d1f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -246,17 +277,17 @@
     "direction": "horizontal",
     "width": 226.5
   },
-  "active": "fb2ac9620766c7cf",
+  "active": "cb40299e674f401e",
   "lastOpenFiles": [
+    "note/to do.md",
     "note/블로그를 만들기까지.md",
     "note/메인 Main.md",
-    "note/to do.md",
+    "note/attachments/Pasted image 20221011023151.png",
+    "note/reload.md",
     "note/to do dataview.md",
     "note/Jekyll 블로그를 Github Pages에 호스팅하기.md",
     "note/attachments/Pasted image 20221011010907.png",
     "note/attachments/Pasted image 20221011010841.png",
-    "note/obsidian 옵시디언.md",
-    "note/블로그.md",
-    "note/소프트웨어 개발 Software development.md"
+    "note/obsidian 옵시디언.md"
   ]
 }
