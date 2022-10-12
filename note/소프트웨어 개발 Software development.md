@@ -1,7 +1,7 @@
 ---
 title: 소프트웨어 개발 Software development
 date: 2022-10-09T06:35:52+09:00
-last_modified_at: 2022-10-10T19:12:32+09:00
+last_modified_at: 2022-10-12T19:56:08+09:00
 ---
 
 ## 개발자
@@ -15,3 +15,4 @@ last_modified_at: 2022-10-10T19:12:32+09:00
 - [obsidian 옵시디언](obsidian%20옵시디언.md)
 ## 취업 준비
 
+- [면접 준비](면접%20준비.md)
