@@ -7,25 +7,73 @@
         "id": "16a7952a71b182c1",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 0,
           "stack": [
             {
               "leaf": "16a7952a71b182c1",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/비즈니스 로직 business logic.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":12},\"to\":{\"line\":19,\"ch\":12}},\"scroll\":9.892156862745098}"
-            },
-            {
-              "leaf": "16a7952a71b182c1",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/node.js 프로젝트 모범 설계.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Socket.io.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "16a7952a71b182c1",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":18},\"to\":{\"line\":13,\"ch\":18}},\"scroll\":22.295429208472687}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":22},\"to\":{\"line\":30,\"ch\":22}},\"scroll\":32.19155639571519}"
+            },
+            {
+              "leaf": "16a7952a71b182c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/프로그래밍.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "16a7952a71b182c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/소프트웨어 개발 Software development.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "16a7952a71b182c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "16a7952a71b182c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/node.js 프로젝트 모범 설계.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":145.87683438155136}"
+            },
+            {
+              "leaf": "16a7952a71b182c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/TypeORM getting started.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":200.21691176470588}"
+            },
+            {
+              "leaf": "16a7952a71b182c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/TypeORM.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "16a7952a71b182c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/P4 부캠타운.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":58.46042363433668}"
+            },
+            {
+              "leaf": "16a7952a71b182c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/TypeORM.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":24.528040327662257}"
+            },
+            {
+              "leaf": "16a7952a71b182c1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":23},\"to\":{\"line\":23,\"ch\":23}},\"scroll\":23.686733556298773}"
             },
             {
               "leaf": "16a7952a71b182c1",
@@ -86,7 +134,36 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "note/웹 개발.md",
+            "file": "note/Socket.io.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "358af358dca93365",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "358af358dca93365",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/TypeORM.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":179},\"to\":{\"line\":11,\"ch\":179}},\"scroll\":11.921262254901961}"
+            },
+            {
+              "leaf": "358af358dca93365",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/TypeORM getting started.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":433.8891509433962}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "note/TypeORM.md",
             "mode": "source",
             "source": true
           }
@@ -96,13 +173,43 @@
         "id": "ce7ebb53d0775f50",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "ce7ebb53d0775f50",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/PostgreSQL vs MySQL.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":16.16421568627451}"
+            },
+            {
+              "leaf": "ce7ebb53d0775f50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/P4 부캠타운.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ce7ebb53d0775f50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Typescript.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":116.34615384615384}"
+            },
+            {
+              "leaf": "ce7ebb53d0775f50",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/node.js 프로젝트 모범 설계.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.9120879120879124}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":37.161764705882355}"
+            },
+            {
+              "leaf": "ce7ebb53d0775f50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Untitled.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":9.849056603773585}"
+            },
+            {
+              "leaf": "ce7ebb53d0775f50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/node.js 프로젝트 모범 설계.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":90,\"ch\":0},\"to\":{\"line\":90,\"ch\":0}},\"scroll\":92.24509803921569}"
             },
             {
               "leaf": "ce7ebb53d0775f50",
@@ -115,7 +222,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "note/node.js 프로젝트 모범 설계.md",
+            "file": "private/P4 부캠타운.md",
             "mode": "source",
             "source": true
           }
@@ -131,7 +238,7 @@
       {
         "id": "6cdce4173865dcea",
         "type": "tabs",
-        "dimension": 64.91228070175438,
+        "dimension": 43.42105263157895,
         "children": [
           {
             "id": "e0fd61f16f5bfcea",
@@ -170,7 +277,7 @@
       {
         "id": "3728b996923343b2",
         "type": "tabs",
-        "dimension": 17.543859649122805,
+        "dimension": 31.49122807017544,
         "children": [
           {
             "id": "157fe9a75f035559",
@@ -182,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/node.js 프로젝트 모범 설계.md"
+                "file": "note/Socket.io.md"
               }
             }
           }
@@ -191,7 +298,7 @@
       {
         "id": "7f95be2b78e77997",
         "type": "tabs",
-        "dimension": 17.543859649122805,
+        "dimension": 25.08771929824561,
         "children": [
           {
             "id": "a4c48f6268977fa5",
@@ -215,7 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note/node.js 프로젝트 모범 설계.md",
+                "file": "note/Socket.io.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -238,7 +345,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3556045338103342,
+                  "scale": 0.24855357299906233,
                   "close": true
                 }
               }
@@ -270,7 +377,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/node.js 프로젝트 모범 설계.md",
+                "file": "note/Socket.io.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +405,7 @@
                   "leaf": "7a0244a6d72f14cd",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/to do.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9846153846153847}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "leaf": "7a0244a6d72f14cd",
@@ -342,17 +449,17 @@
     "direction": "horizontal",
     "width": 226.5
   },
-  "active": "ce7ebb53d0775f50",
+  "active": "16a7952a71b182c1",
   "lastOpenFiles": [
-    "note/메인 Main.md",
-    "note/소프트웨어 개발 Software development.md",
-    "note/면접 준비.md",
     "note/웹 개발.md",
+    "note/WebSocket.md",
+    "note/Socket.io.md",
+    "note/프로그래밍.md",
+    "note/소프트웨어 개발 Software development.md",
+    "note/메인 Main.md",
     "note/node.js 프로젝트 모범 설계.md",
-    "private/to do.md",
-    "note/비즈니스 로직 business logic.md",
-    "private/P4 부캠타운.md",
-    "private/부스트캠프 boostcamp.md",
-    "note/PostgreSQL vs MySQL.md"
+    "note/TypeORM.md",
+    "note/TypeORM getting started.md",
+    "note/잠은 얼마나 자야 하는가.md"
   ]
 }
