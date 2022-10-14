@@ -18,7 +18,7 @@
             {
               "leaf": "16a7952a71b182c1",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발 Web.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":22},\"to\":{\"line\":30,\"ch\":22}},\"scroll\":32.19155639571519}"
             },
             {
@@ -72,7 +72,7 @@
             {
               "leaf": "16a7952a71b182c1",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발 Web.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":23},\"to\":{\"line\":23,\"ch\":23}},\"scroll\":23.686733556298773}"
             },
             {
@@ -84,7 +84,7 @@
             {
               "leaf": "16a7952a71b182c1",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발 Web.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"scroll\":24.668896321070235}"
             },
             {
@@ -149,8 +149,50 @@
             {
               "leaf": "358af358dca93365",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/github oauth 로그인 직접 구현.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":10.682598039215687}"
+            },
+            {
+              "leaf": "358af358dca93365",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/oauth.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":61},\"to\":{\"line\":86,\"ch\":61}},\"scroll\":86.65663322185061}"
+            },
+            {
+              "leaf": "358af358dca93365",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/express-session.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":21.6875}"
+            },
+            {
+              "leaf": "358af358dca93365",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Express.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":39},\"to\":{\"line\":0,\"ch\":39}},\"scroll\":0.6778149386845039}"
+            },
+            {
+              "leaf": "358af358dca93365",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발 Web.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":9},\"to\":{\"line\":13,\"ch\":9}},\"scroll\":13.662207357859533}"
+            },
+            {
+              "leaf": "358af358dca93365",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/node.js 프로젝트 모범 설계.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":152.6389413988658}"
+            },
+            {
+              "leaf": "358af358dca93365",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/oauth.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":44.56985294117647}"
+            },
+            {
+              "leaf": "358af358dca93365",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/TypeORM.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":179},\"to\":{\"line\":11,\"ch\":179}},\"scroll\":11.921262254901961}"
+              "eState": "{\"scroll\":11.793811274509803}"
             },
             {
               "leaf": "358af358dca93365",
@@ -163,7 +205,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "note/TypeORM.md",
+            "file": "note/github oauth 로그인 직접 구현.md",
             "mode": "source",
             "source": true
           }
@@ -173,19 +215,43 @@
         "id": "ce7ebb53d0775f50",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "ce7ebb53d0775f50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/PostgreSQL vs MySQL.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":16.16421568627451}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/TypeORM getting started.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ce7ebb53d0775f50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/TypeORM.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":44},\"to\":{\"line\":6,\"ch\":44}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ce7ebb53d0775f50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/TypeORM 막혔던 곳들.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":33.040880503144656}"
+            },
+            {
+              "leaf": "ce7ebb53d0775f50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/TypeORM.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":41},\"to\":{\"line\":8,\"ch\":41}},\"scroll\":8.67670011148272}"
+            },
+            {
+              "leaf": "ce7ebb53d0775f50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/oauth.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":64.98897058823529}"
             },
             {
               "leaf": "ce7ebb53d0775f50",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/P4 부캠타운.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "ce7ebb53d0775f50",
@@ -222,8 +288,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/P4 부캠타운.md",
+            "file": "note/TypeORM getting started.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "7bcfaadb50ce171c",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "7bcfaadb50ce171c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "note/메인 Main.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -289,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/Socket.io.md"
+                "file": "note/메인 Main.md"
               }
             }
           }
@@ -322,7 +411,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note/Socket.io.md",
+                "file": "note/메인 Main.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -377,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/Socket.io.md",
+                "file": "note/메인 Main.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +494,7 @@
                   "leaf": "7a0244a6d72f14cd",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/to do.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":68},\"to\":{\"line\":3,\"ch\":68}},\"scroll\":4.003846153846154}"
                 },
                 {
                   "leaf": "7a0244a6d72f14cd",
@@ -449,17 +538,17 @@
     "direction": "horizontal",
     "width": 226.5
   },
-  "active": "16a7952a71b182c1",
+  "active": "7bcfaadb50ce171c",
   "lastOpenFiles": [
-    "note/웹 개발.md",
-    "note/WebSocket.md",
-    "note/Socket.io.md",
-    "note/프로그래밍.md",
-    "note/소프트웨어 개발 Software development.md",
-    "note/메인 Main.md",
-    "note/node.js 프로젝트 모범 설계.md",
     "note/TypeORM.md",
-    "note/TypeORM getting started.md",
-    "note/잠은 얼마나 자야 하는가.md"
+    "note/TypeORM 막혔던 곳들.md",
+    "note/oauth.md",
+    "private/P4 부캠타운.md",
+    "note/github oauth 로그인 직접 구현.md",
+    "note/express-session.md",
+    "note/Express.md",
+    "note/웹 개발 Web.md",
+    "note/node.js 프로젝트 모범 설계.md",
+    "note/TypeORM getting started.md"
   ]
 }

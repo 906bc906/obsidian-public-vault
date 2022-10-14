@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "70a33b7f55e54b11",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb520de4b39c7abc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bcfaadb50ce171c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "node.js 프로젝트 모범 설계",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/node.js 프로젝트 모범 설계.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":140.8095238095238}"
+                },
+                {
+                  "title": "Typescript",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Typescript.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":330,\"ch\":13},\"to\":{\"line\":330,\"ch\":13}},\"scroll\":334.06066176470586}"
+                },
+                {
+                  "title": "메인 Main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/express 프론트, 백 서버 분리 후 세션 쿠키 관리.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd5aaaaa75263c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cdce4173865dcea",
+        "type": "tabs",
+        "dimension": 43.42105263157895,
+        "children": [
+          {
+            "id": "e0fd61f16f5bfcea",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f96a2c04fef0791",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "immer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3728b996923343b2",
+        "type": "tabs",
+        "dimension": 31.49122807017544,
+        "children": [
+          {
+            "id": "157fe9a75f035559",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note/express 프론트, 백 서버 분리 후 세션 쿠키 관리.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7f95be2b78e77997",
+        "type": "tabs",
+        "dimension": 25.08771929824561,
+        "children": [
+          {
+            "id": "a4c48f6268977fa5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cd34999be07fe52",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "note/express 프론트, 백 서버 분리 후 세션 쿠키 관리.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.24855357299906233,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227
+  },
+  "right": {
+    "id": "2028e219f4e3ec20",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fa4efc4df6917c0",
+        "type": "tabs",
+        "dimension": 33.497536945812804,
+        "children": [
+          {
+            "id": "3863fc42b3dc9717",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "note/express 프론트, 백 서버 분리 후 세션 쿠키 관리.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c5a0b279a3f0134a",
+        "type": "tabs",
+        "dimension": 33.2512315270936,
+        "children": [
+          {
+            "id": "7a0244a6d72f14cd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "7a0244a6d72f14cd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}",
+                  "title": "메인 Main",
+                  "icon": "lines-of-text"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/to do.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3b45ed0d0c673ea4",
+        "type": "tabs",
+        "dimension": 33.2512315270936,
+        "children": [
+          {
+            "id": "3da364ba26843d1f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7bcfaadb50ce171c",
+  "lastOpenFiles": [
+    "note/node.js 프로젝트 모범 설계.md",
+    "note/Typescript.md",
+    "note/메인 Main.md",
+    "note/TypeORM.md",
+    "note/TypeORM 막혔던 곳들.md",
+    "note/oauth.md",
+    "private/P4 부캠타운.md",
+    "note/github oauth 로그인 직접 구현.md",
+    "note/express-session.md",
+    "note/Express.md"
+  ]
+}

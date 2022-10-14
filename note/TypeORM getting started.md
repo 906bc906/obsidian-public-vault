@@ -1,7 +1,7 @@
 ---
 title: TypeORM getting started
 date: 2022-10-13T09:16:42+09:00
-last_modified_at: 2022-10-13T14:29:55+09:00
+last_modified_at: 2022-10-13T16:47:17+09:00
 ---
 ## 설치
 
@@ -443,4 +443,66 @@ console.log("Photo has been saved")
 const savedPhotos = await photoRepository.find()
 console.log("All photos from the db: ", savedPhotos)
 ```
+
+### 데이터베이스에서 load
+
+```ts
+import { Photo } from "./entity/Photo"
+import { AppDataSource } from "./index"
+
+const photoRepository = AppDataSource.getRepository(Photo)
+const allPhotos = await photoRepository.find()
+console.log("All photos from the db: ", allPhotos)
+
+const firstPhoto = await photoRepository.findOneBy({
+    id: 1,
+})
+console.log("First photo from the db: ", firstPhoto)
+
+const meAndBearsPhoto = await photoRepository.findOneBy({
+    name: "Me and Bears",
+})
+console.log("Me and Bears photo from the db: ", meAndBearsPhoto)
+
+const allViewedPhotos = await photoRepository.findBy({ views: 1 })
+console.log("All viewed photos: ", allViewedPhotos)
+
+const allPublishedPhotos = await photoRepository.findBy({ isPublished: true })
+console.log("All published photos: ", allPublishedPhotos)
+
+const [photos, photosCount] = await photoRepository.findAndCount()
+console.log("All photos: ", photos)
+console.log("Photos count: ", photosCount)
+```
+
+`findOne`, `findBy` 등의 다양한 load 방법을 제공한다.
+
+### 데이터베이스 업데이트
+
+```ts
+import { Photo } from "./entity/Photo"
+import { AppDataSource } from "./index"
+
+const photoRepository = AppDataSource.getRepository(Photo)
+const photoToUpdate = await photoRepository.findOneBy({
+    id: 1,
+})
+photoToUpdate.name = "Me, my friends and polar bears"
+await photoRepository.save(photoToUpdate)
+```
+
+### 데이터베이스에서 삭제
+
+```ts
+import { Photo } from "./entity/Photo"
+import { AppDataSource } from "./index"
+
+const photoRepository = AppDataSource.getRepository(Photo)
+const photoToRemove = await photoRepository.findOneBy({
+    id: 1,
+})
+await photoRepository.remove(photoToRemove)
+```
+
+### 1:1 관계 생성
 
