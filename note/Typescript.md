@@ -3,7 +3,7 @@ title: Typescript
 tags:
 - todo
 date: 2022-10-10T01:07:51+09:00
-last_modified_at: 2022-10-10T19:12:00+09:00
+last_modified_at: 2022-10-18T14:59:39+09:00
 ---
 
 TARGET DECK
@@ -291,7 +291,7 @@ type PartialPoint = PartialPointX | PartialPointY;
 type Data = [number, string];
 ```
 
-3. 확장을 위한 신택스가 다르다.
+1. 확장을 위한 신택스가 다르다.
 
 ```typescript
 interface PartialPointX { x: number; }

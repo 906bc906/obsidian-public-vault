@@ -1,7 +1,7 @@
 ---
 title: oauth
 date: 2022-10-10T00:54:27+09:00
-last_modified_at: 2022-10-10T19:12:33+09:00
+last_modified_at: 2022-10-18T14:59:39+09:00
 ---
 
 Open Authorization

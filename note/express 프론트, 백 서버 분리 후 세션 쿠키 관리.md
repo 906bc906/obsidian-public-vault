@@ -1,7 +1,7 @@
 ---
 title: express 프론트, 백 서버 분리 후 세션 쿠키 관리
 date: 2022-10-14T14:26:31+09:00
-last_modified_at: 2022-10-14T14:46:14+09:00
+last_modified_at: 2022-10-18T14:59:39+09:00
 ---
 ## 기존
 
@@ -36,7 +36,7 @@ same-origin|기본값. 같은 출처의 요청에만 크레덴셜 포함됨.
 include|모든 요청에 크레덴셜 포함됨. 이 경우 `Access-Control-Allow-Origin` 는 `*` 여서는 안되며 명시적으로 나타내야함.
 omit|모든 요청에 크레덴셜 제외됨.
 
-axios 사용하는 경우 참고 : [react router props 전달 & 브라우저에 쿠키 저장이 안되는 문제 해결](https://velog.io/@yhe228/react-router-props-axios-cookie-get-set)
+axios 사용하는 경우 `credentials` 이 아닌 `withCredentials` 을 `true` 로 설정해야 함. 자세한 내용은 참고 : [react router props 전달 & 브라우저에 쿠키 저장이 안되는 문제 해결](https://velog.io/@yhe228/react-router-props-axios-cookie-get-set)
 
 ### 백엔드
 
@@ -97,3 +97,6 @@ app.use(cors({
 
 전부 활성화하고 싶다면 cors 미들웨어에 옵션으로 추가해도 됨.
 
+## 파생 문제
+
+- [쿠키 SameSite 문제](쿠키%20SameSite%20문제.md)

@@ -1,3 +1,8 @@
+---
+title: TypeORM 막혔던 곳들
+date: 2022-10-13T21:05:17+09:00
+last_modified_at: 2022-10-18T14:59:39+09:00
+---
 ## composite PK는 어떻게 갖게 하는가?
 
 ```ts
@@ -12,7 +17,6 @@
 ## Foreign Key는 어떻게 지정하는가?
 
 키워드 Relations. OneToOne ~ ManyToMany
-
 
 ```ts
     @OneToOne(() => Photo)

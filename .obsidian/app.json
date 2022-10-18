@@ -6,7 +6,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./attachments",
   "defaultViewMode": "preview",
-  "livePreview": false,
+  "livePreview": true,
   "promptDelete": false,
   "readableLineLength": true,
   "pdfExportSettings": {

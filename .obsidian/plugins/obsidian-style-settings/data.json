@@ -1,11 +1,8 @@
 {
-  "minimal-style@@h2": "1.3em",
   "minimal-style@@h2-variant": "normal",
   "minimal-style@@h2-style": "normal",
   "minimal-style@@h2-l": true,
-  "minimal-style@@h1": "1.4em",
   "minimal-style@@h1-l": true,
-  "minimal-style@@h3": "1.2em",
   "minimal-style@@h3-variant": "normal",
   "minimal-style@@h3-weight": 900,
   "minimal-style@@h3-l": true,
