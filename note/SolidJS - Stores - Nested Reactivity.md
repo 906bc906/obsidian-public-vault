@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Stores - Nested Reactivity
 date: 2022-10-10T00:19:38+09:00
-last_modified_at: 2022-10-10T19:12:33+09:00
+last_modified_at: 2022-10-26T01:11:30+09:00
 ---
 
 https://www.solidjs.com/tutorial/stores_nested_reactivity

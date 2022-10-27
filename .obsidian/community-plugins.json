@@ -1,14 +1,14 @@
 [
   "code-block-copy",
   "dataview",
-  "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "pane-relief",
-  "homepage",
   "simple-embeds",
   "url-into-selection",
+  "pane-relief",
   "obsidian-to-anki-plugin",
+  "homepage",
   "obsidian-git",
   "multi-column-markdown",
+  "obsidian-minimal-settings",
   "obsidian-linter"
 ]

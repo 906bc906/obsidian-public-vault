@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Introduction - Memos
 date: 2022-10-10T00:09:50+09:00
-last_modified_at: 2022-10-10T19:12:34+09:00
+last_modified_at: 2022-10-26T01:11:30+09:00
 ---
 
 

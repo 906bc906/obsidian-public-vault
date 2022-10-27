@@ -1,7 +1,7 @@
 ---
 title: obsidian plugin
 date: 2022-10-10T18:39:12+09:00
-last_modified_at: 2022-10-11T00:23:24+09:00
+last_modified_at: 2022-10-26T01:11:31+09:00
 ---
 
 ## 사용중

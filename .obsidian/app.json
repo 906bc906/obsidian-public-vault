@@ -1,23 +1,8 @@
 {
-  "legacyEditor": false,
-  "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "note",
-  "showUnsupportedFiles": true,
   "attachmentFolderPath": "./attachments",
-  "defaultViewMode": "preview",
-  "livePreview": true,
   "promptDelete": false,
-  "readableLineLength": true,
-  "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "newLinkFormat": "relative",
-  "tabSize": 2,
+  "newFileLocation": "current",
   "useMarkdownLinks": true,
-  "strictLineBreaks": true,
-  "showFrontmatter": true
+  "newLinkFormat": "relative",
+  "livePreview": false
 }

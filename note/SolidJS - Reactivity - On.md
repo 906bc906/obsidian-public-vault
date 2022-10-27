@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Reactivity - On
 date: 2022-10-10T00:30:37+09:00
-last_modified_at: 2022-10-10T19:12:34+09:00
+last_modified_at: 2022-10-26T01:11:30+09:00
 ---
 
 https://www.solidjs.com/tutorial/reactivity_on

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb520de4b39c7abc",
+        "id": "72db4850fda6b7b5",
         "type": "tabs",
         "children": [
           {
-            "id": "7bcfaadb50ce171c",
+            "id": "8c6b80045f474cf0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,135 +18,48 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "express 프론트, 백 서버 분리 후 세션 쿠키 관리",
+                  "title": "웹 개발 Web",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/express 프론트, 백 서버 분리 후 세션 쿠키 관리.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "node.js 프로젝트 모범 설계",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/node.js 프로젝트 모범 설계.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":140.8095238095238}"
-                },
-                {
-                  "title": "Typescript",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Typescript.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":330,\"ch\":13},\"to\":{\"line\":330,\"ch\":13}},\"scroll\":334.06066176470586}"
-                },
-                {
-                  "title": "메인 Main",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c06076c337c95a6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "메인 Main",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Express.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5649357f7d6a4766",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/express session 과 socket.io 연동.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3dec2d4bc9277d1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Redis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Redis.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.2745098039215685}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발 Web.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":6},\"to\":{\"line\":18,\"ch\":6}},\"scroll\":3.215686274509804}"
                 },
                 {
                   "title": "프로그래밍",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/프로그래밍.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/프로그래밍.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "소프트웨어 개발 Software development",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/소프트웨어 개발 Software development.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/소프트웨어 개발 Software development.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "메인 Main",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "ncloud 서버 인스턴스 초기 세팅",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/ncloud 서버 인스턴스 초기 세팅.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":30.346522580102597}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/웹 개발 Web.md",
+                "file": "note/Redis.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "975d3991b61b9475",
+            "id": "663d6055b4740c34",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -156,24 +69,30 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "메인 Main",
+                  "title": "Express",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":22.642706131078224}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Express.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":30},\"to\":{\"line\":6,\"ch\":30}},\"scroll\":0}"
+                },
+                {
+                  "title": "Reids 클라우드를 위한 여러 인스턴스 설정하기",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Reids 클라우드를 위한 여러 인스턴스 설정하기.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":195,\"ch\":38},\"to\":{\"line\":195,\"ch\":38}},\"scroll\":179.9950980392157}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/express 프론트, 백 서버 분리 후 세션 쿠키 관리.md",
+                "file": "note/express error handling.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "67187eb379f2a0e2",
+            "id": "73ac097c88fd1033",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -183,36 +102,51 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "WebSocket",
+                  "title": "express error handling",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/WebSocket.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/express error handling.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "express 프론트, 백 서버 분리 후 세션 쿠키 관리",
+                  "title": "메인 Main",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/express 프론트, 백 서버 분리 후 세션 쿠키 관리.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "쿠키 SameSite 문제",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/쿠키 SameSite 문제.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":21.101928374655646}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/웹 개발 Web.md",
+                "file": "note/Socket.io.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a3ffa2c65f7c2abf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/socket.io 에러 핸들링.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,8 +203,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3728b996923343b2",
@@ -292,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/웹 개발 Web.md"
+                "file": "note/socket.io 에러 핸들링.md"
               }
             }
           }
@@ -335,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note/웹 개발 Web.md",
+                "file": "note/socket.io 에러 핸들링.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -358,7 +291,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.24855357299906233,
+                  "scale": 0.34846785852582934,
                   "close": true
                 }
               }
@@ -369,7 +302,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 233.5
   },
   "right": {
     "id": "2028e219f4e3ec20",
@@ -395,7 +328,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/웹 개발 Web.md",
+                "file": "note/socket.io 에러 핸들링.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -437,8 +370,8 @@
               "type": "markdown",
               "state": {
                 "file": "private/to do.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -475,17 +408,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "67187eb379f2a0e2",
+  "active": "a3ffa2c65f7c2abf",
   "lastOpenFiles": [
-    "note/WebSocket.md",
-    "note/express 프론트, 백 서버 분리 후 세션 쿠키 관리.md",
-    "note/쿠키 SameSite 문제.md",
-    "![](attachments/Pasted image 20221018144552.png).md",
     "note/메인 Main.md",
-    "note/javascript reflection.md",
-    "note/Jekyll 블로그를 Github Pages에 호스팅하기.md",
+    "note/socket.io 에러 핸들링.md",
+    "note/Socket.io.md",
+    "note/express error handling.md",
+    "note/Express.md",
+    "note/Reids 클라우드를 위한 여러 인스턴스 설정하기.md",
     "private/to do.md",
+    "note/Redis.md",
     "note/웹 개발 Web.md",
-    "note/Redis.md"
+    "note/Ubuntu 18.04 에서 MySQL 8 설치.md"
   ]
 }

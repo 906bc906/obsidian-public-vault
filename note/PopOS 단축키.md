@@ -1,7 +1,7 @@
 ---
 title: PopOS 단축키
 date: 2022-10-13T09:10:43+09:00
-last_modified_at: 2022-10-18T14:59:42+09:00
+last_modified_at: 2022-10-26T01:11:31+09:00
 ---
 TARGET DECK
 전체::POPOS

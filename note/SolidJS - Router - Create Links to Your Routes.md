@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Router - Create Links to Your Routes
 date: 2022-10-10T00:31:48+09:00
-last_modified_at: 2022-10-10T19:12:00+09:00
+last_modified_at: 2022-10-26T01:11:30+09:00
 ---
 
 https://github.com/solidjs/solid-router#create-links-to-your-routes

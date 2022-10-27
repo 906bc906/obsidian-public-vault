@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Introduction - Signals
 date: 2022-10-10T00:08:22+09:00
-last_modified_at: 2022-10-10T19:12:01+09:00
+last_modified_at: 2022-10-26T01:11:30+09:00
 ---
 
 https://www.solidjs.com/tutorial/introduction_signals

@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "translucency": false,
   "interfaceFontFamily": "a견나루",
   "textFontFamily": "리디바탕,마루 부리",
@@ -10,7 +10,8 @@
     "wide",
     "hideribbon",
     "boldwhiten",
-    "small-side-header"
+    "preview-delete-padding",
+    "no-inline-title"
   ],
   "baseFontSize": 17,
   "accentColor": ""

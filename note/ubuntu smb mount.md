@@ -1,7 +1,7 @@
 ---
 title: ubuntu smb mount
 date: 2022-10-10T00:53:55+09:00
-last_modified_at: 2022-10-10T19:11:59+09:00
+last_modified_at: 2022-10-26T01:11:29+09:00
 ---
 
 ```bash

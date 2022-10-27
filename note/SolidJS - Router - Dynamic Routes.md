@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Router - Dynamic Routes
 date: 2022-10-10T00:32:00+09:00
-last_modified_at: 2022-10-10T19:12:34+09:00
+last_modified_at: 2022-10-26T01:11:30+09:00
 ---
 
 https://github.com/solidjs/solid-router#dynamic-routes

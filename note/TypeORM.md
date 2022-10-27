@@ -1,7 +1,7 @@
 ---
 title: TypeORM
 date: 2022-10-12T22:24:21+09:00
-last_modified_at: 2022-10-18T14:59:39+09:00
+last_modified_at: 2022-10-26T01:11:29+09:00
 ---
 
 - [TypeORM getting started](TypeORM%20getting%20started.md)

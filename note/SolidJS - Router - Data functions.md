@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Router - Data functions
 date: 2022-10-10T00:32:08+09:00
-last_modified_at: 2022-10-10T19:12:34+09:00
+last_modified_at: 2022-10-26T01:11:30+09:00
 ---
 
 그간의 예시에서, 유저 컴포넌트가 lazy 로드된 뒤에, 데이터가 fetch 되었다. route data functions으로, route를 로딩하면서 동시에 data를 fetch할 수 있다.

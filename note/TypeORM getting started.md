@@ -1,7 +1,7 @@
 ---
 title: TypeORM getting started
 date: 2022-10-13T09:16:42+09:00
-last_modified_at: 2022-10-13T16:47:17+09:00
+last_modified_at: 2022-10-26T01:11:30+09:00
 ---
 ## 설치
 

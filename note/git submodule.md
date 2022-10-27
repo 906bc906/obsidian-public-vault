@@ -1,7 +1,7 @@
 ---
 title: git submodule
 date: 2022-10-10T01:45:27+09:00
-last_modified_at: 2022-10-10T19:12:33+09:00
+last_modified_at: 2022-10-26T01:11:31+09:00
 ---
 
 [Git - git-submodule Documentation](https://git-scm.com/docs/git-submodule)

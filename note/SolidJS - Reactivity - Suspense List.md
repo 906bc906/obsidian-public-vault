@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Reactivity - Suspense List
 date: 2022-10-10T00:31:01+09:00
-last_modified_at: 2022-10-10T19:12:01+09:00
+last_modified_at: 2022-10-26T01:11:30+09:00
 ---
 
 https://www.solidjs.com/tutorial/async_suspense_list

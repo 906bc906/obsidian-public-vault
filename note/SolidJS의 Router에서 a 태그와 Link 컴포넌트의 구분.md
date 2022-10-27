@@ -1,7 +1,7 @@
 ---
 title: SolidJS의 Router에서 a 태그와 Link 컴포넌트의 구분
 date: 2022-10-07T16:18:32+09:00
-last_modified_at: 2022-10-10T19:12:00+09:00
+last_modified_at: 2022-10-26T01:11:30+09:00
 ---
 SolidJS의 Router 문서를 보면 `Link`, `NavLink` 컴포넌트를 이용하라고 적혀있고, `a` 태그에 대한 내용은 없다.
 

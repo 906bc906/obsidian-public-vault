@@ -1,7 +1,7 @@
 ---
 title: 웹 개발 Web
 date: 2022-10-09T23:53:24+09:00
-last_modified_at: 2022-10-18T14:59:38+09:00
+last_modified_at: 2022-10-26T01:11:29+09:00
 ---
 ## Basic
 - HTML
@@ -20,6 +20,8 @@ last_modified_at: 2022-10-18T14:59:38+09:00
 ---
 - [PostgreSQL vs MySQL](PostgreSQL%20vs%20MySQL.md)
 - [node.js 프로젝트 모범 설계](node.js%20프로젝트%20모범%20설계)
+- [ncloud 서버 인스턴스 초기 세팅](ncloud%20서버%20인스턴스%20초기%20세팅.md)]
+- [Ubuntu 18.04 에서 MySQL 8 설치](Ubuntu%2018.04%20에서%20MySQL%208%20설치.md)
 
 ## Both
 - 자바스크립트 런타임

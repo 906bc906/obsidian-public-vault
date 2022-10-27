@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "https://to-do.office.com/tasks/",
+      "displayName": "Todo",
+      "icon": "check",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 0.8,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

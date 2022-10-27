@@ -1,7 +1,7 @@
 ---
 title: Jekyll 블로그를 Github Pages에 호스팅하기
 date: 2022-10-10T00:36:56+09:00
-last_modified_at: 2022-10-10T19:12:02+09:00
+last_modified_at: 2022-10-26T01:11:31+09:00
 tags:
 - todo
 ---

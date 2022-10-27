@@ -1,7 +1,7 @@
 ---
 title: node.js 프로젝트 모범 설계
 date: 2022-10-12T17:25:24+09:00
-last_modified_at: 2022-10-12T18:47:50+09:00
+last_modified_at: 2022-10-26T01:11:31+09:00
 ---
 원본: https://softwareontheroad.com/ideal-nodejs-project-structure/
 
