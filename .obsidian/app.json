@@ -4,5 +4,7 @@
   "newFileLocation": "current",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "livePreview": false
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "tabSize": 2
 }

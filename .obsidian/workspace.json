@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Node.js",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Node.js.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":40},\"to\":{\"line\":0,\"ch\":40}}}"
+                },
+                {
+                  "title": "웹 개발 Web",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발 Web.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":12},\"to\":{\"line\":28,\"ch\":12}},\"scroll\":19.819397993311036}"
+                },
+                {
+                  "title": "node.js 프로젝트 모범 설계",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/node.js 프로젝트 모범 설계.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Redis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Redis.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "웹 개발 Web",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발 Web.md\",\"mode\":\"source\",\"source\":true}}",
@@ -52,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Redis.md",
+                "file": "note/node.js package.json NODE_ENV 윈도우 문제.md",
                 "mode": "source",
                 "source": true
               }
@@ -66,6 +90,18 @@
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Express",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Express.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "express error handling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/express error handling (작성중).md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 },
                 {
@@ -85,8 +121,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/express error handling.md",
-                "mode": "source",
+                "file": "note/express error handling (작성중).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -102,9 +138,21 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "메인 Main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Socket.io",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Socket.io.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "express error handling",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/express error handling.md\",\"mode\":\"source\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/express error handling (작성중).md\",\"mode\":\"source\",\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -118,9 +166,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Socket.io.md",
+                "file": "note/express error handling (작성중).md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "e5f4f8c3add5cea4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "socket.io error handling (작성중)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/socket.io error handling (작성중).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":22},\"to\":{\"line\":20,\"ch\":22}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/웹 개발 Web.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a740df4c54e96fb2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
               }
             }
           },
@@ -133,13 +227,55 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "뽀모도로 pomodoro 일지",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/뽀모도로 pomodoro 일지.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
+                },
+                {
+                  "title": "Private notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/Private notes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":22},\"to\":{\"line\":9,\"ch\":22}}}"
+                },
+                {
+                  "title": "메인 Main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "뽀모도로 pomodoro 일지",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/뽀모도로 pomodoro 일지.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Private notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/Private notes.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":17},\"to\":{\"line\":9,\"ch\":17}}}"
+                },
+                {
+                  "title": "메인 Main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+                },
+                {
+                  "title": "socket.io 에러 핸들링",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/socket.io 에러 핸들링.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/socket.io 에러 핸들링.md",
+                "file": "private/20221027.md",
                 "mode": "source",
                 "source": true
               }
@@ -225,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/socket.io 에러 핸들링.md"
+                "file": "note/웹 개발 Web.md"
               }
             }
           }
@@ -268,7 +404,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note/socket.io 에러 핸들링.md",
+                "file": "note/웹 개발 Web.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -328,7 +464,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/socket.io 에러 핸들링.md",
+                "file": "note/웹 개발 Web.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,20 +541,17 @@
     "direction": "horizontal",
     "width": 226.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "a3ffa2c65f7c2abf",
+  "active": "e5f4f8c3add5cea4",
   "lastOpenFiles": [
+    "note/temp graph.md",
+    "note/socket.io error handling (작성중).md",
+    "note/logging with winston.md",
+    "note/express error handling (작성중).md",
+    "note/express logging req, res with morgan.md",
     "note/메인 Main.md",
-    "note/socket.io 에러 핸들링.md",
-    "note/Socket.io.md",
-    "note/express error handling.md",
+    "private/20221027.md",
     "note/Express.md",
-    "note/Reids 클라우드를 위한 여러 인스턴스 설정하기.md",
-    "private/to do.md",
-    "note/Redis.md",
-    "note/웹 개발 Web.md",
-    "note/Ubuntu 18.04 에서 MySQL 8 설치.md"
+    "note/node.js package.json NODE_ENV 윈도우 문제.md",
+    "note/Node.js.md"
   ]
 }
