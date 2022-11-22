@@ -1,7 +1,7 @@
 ---
 title: socket.io error handling (작성중)
 date: 2022-10-28T15:32:39+09:00
-last_modified_at: 2022-10-28T15:32:47+09:00
+last_modified_at: 2022-11-22T20:09:21+09:00
 ---
 socket.io는 별도로 에러 핸들링 수단을 제공하지 않음
 

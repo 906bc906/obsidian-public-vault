@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Control Flow - Portal
 date: 2022-10-10T00:17:16+09:00
-last_modified_at: 2022-10-26T01:11:31+09:00
+last_modified_at: 2022-11-17T01:31:47+09:00
 ---
 
 https://www.solidjs.com/tutorial/flow_portal

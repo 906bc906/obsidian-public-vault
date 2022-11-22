@@ -1,6 +1,6 @@
 ---
 date: 2022-10-09T22:52:42+09:00
-last_modified_at: 2022-10-26T01:11:28+09:00
+last_modified_at: 2022-11-22T20:09:19+09:00
 title: README
 ---
 이 리포지토리는 Obsidian으로 작성되었습니다.

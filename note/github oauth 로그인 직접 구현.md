@@ -1,7 +1,7 @@
 ---
 title: github oauth 로그인 직접 구현
 date: 2022-10-13T18:06:15+09:00
-last_modified_at: 2022-10-18T14:59:39+09:00
+last_modified_at: 2022-11-22T20:09:22+09:00
 ---
 https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps
 

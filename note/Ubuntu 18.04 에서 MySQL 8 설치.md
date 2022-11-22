@@ -1,7 +1,7 @@
 ---
 title: Ubuntu 18.04 에서 MySQL 8 설치
 date: 2022-10-25T14:55:09+09:00
-last_modified_at: 2022-10-26T01:11:29+09:00
+last_modified_at: 2022-11-22T20:09:20+09:00
 ---
 Ubuntu 18.04 에서 `sudo apt install mysql-server` 를 하면 MySQL 5.7 버전이 설치됨.
 

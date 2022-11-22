@@ -3,10 +3,10 @@
   "defaultNote": "note/메인 Main",
   "useMoment": false,
   "momentFormat": "YYYY-MM-DD",
-  "workspace": "Home",
-  "workspaceEnabled": false,
+  "workspace": "Home workspace",
+  "workspaceEnabled": true,
   "hasRibbonIcon": true,
-  "openMode": "Keep open notes",
+  "openMode": "Replace all open notes",
   "view": "Reading view",
   "refreshDataview": false
 }

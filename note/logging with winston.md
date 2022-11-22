@@ -1,7 +1,7 @@
 ---
 title: logging with winston
 date: 2022-10-28T15:13:14+09:00
-last_modified_at: 2022-10-28T15:29:43+09:00
+last_modified_at: 2022-11-22T20:09:22+09:00
 ---
 [winstonjs/winston: A logger for just about everything.](https://github.com/winstonjs/winston)
 

@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Stores - Mutation
 date: 2022-10-10T00:19:58+09:00
-last_modified_at: 2022-10-26T01:11:30+09:00
+last_modified_at: 2022-11-22T20:09:20+09:00
 ---
 
 https://www.solidjs.com/tutorial/stores_mutation

@@ -1,7 +1,7 @@
 ---
 title: passport로 github oauth 회원가입 및 로그인 구현
 date: 2022-10-10T00:51:19+09:00
-last_modified_at: 2022-10-26T01:11:31+09:00
+last_modified_at: 2022-11-22T20:09:21+09:00
 ---
 
 passport를 이용하여 github oauth를 하는 간단한 예시

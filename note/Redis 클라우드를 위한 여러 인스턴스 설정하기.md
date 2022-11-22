@@ -1,7 +1,7 @@
 ---
-title: Reids 클라우드를 위한 여러 인스턴스 설정하기
+title: Redis 클라우드를 위한 여러 인스턴스 설정하기
 date: 2022-10-25T20:21:55+09:00
-last_modified_at: 2022-10-26T01:11:29+09:00
+last_modified_at: 2022-11-22T20:09:21+09:00
 ---
 MySQL을 한 클라우드 인스턴스에서 개발용, 프로덕션용으로 나눴다. Redis도 마찬가지의 작업을 하려고 한다. 모든 작업은 우분투 18.04 기준임.
 
@@ -177,7 +177,9 @@ OK
 
 기존 연결된 커넥션은 유지되기 때문에 새로 `redis-cli` 를 실행하면 `AUTH` 없이는 어떠한 명령어도 실행할 수 없는 것을 확인할 수 있다.
 
-참고로, [protected mode](https://redis.io/docs/manual/security/#protected-mode) 가 활성화되어있을 때(기본으로 활성화되어있다), default 계정이 `nopass`인 경우, 원격 접속을 차단하고 루프백 인터페이스로만 동작한다. 따라서 default 유저를 사용하지 않더라도 패스워드는 지정해줘야 한다.
+참고로, [protected mode](https://redis.io/docs/manual/security/#protected-mode) 가 활성화되어있을 때(기본으로 활성화되어있다), default 계정이 `nopass`인 경우, 원격 접속을 차단하고 루프백 인터페이스로만 동작한다. 따라서 **protection mode를 끄지 않았다면 default 유저를 사용하지 않더라도 패스워드는 지정해줘야** 한다.
+
+ACLFILE을 저장하도록 설정을 했다면 ACL을 편집하고 나서 `ACL SAVE` 로 저장해야 한다.
 
 redis-cli 진입 후 AUTH는 `AUTH <아이디> <비밀번호>` 의 형식으로 진행하면 된다.
 

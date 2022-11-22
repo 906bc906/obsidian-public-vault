@@ -3,7 +3,7 @@ title: IO blocking non-blocking sync async 구분
 tags:
 - todo
 date: 2022-10-10T00:40:42+09:00
-last_modified_at: 2022-10-26T01:11:31+09:00
+last_modified_at: 2022-11-22T20:09:22+09:00
 ---
 
 <!--ankiQ-->

@@ -1,0 +1,392 @@
+{
+  "workspaces": {
+    "Home workspace": {
+      "main": {
+        "id": "70a33b7f55e54b11",
+        "type": "split",
+        "children": [
+          {
+            "id": "72db4850fda6b7b5",
+            "type": "tabs",
+            "dimension": 43.81926683716965,
+            "children": [
+              {
+                "id": "3bedd720d2b06789",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 1,
+                  "stack": [
+                    {
+                      "title": "javascript decorator",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/javascript decorator.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "to do dataview",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/to do dataview.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "메인 Main",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":17.832558565361555}"
+                    },
+                    {
+                      "title": "소프트웨어 개발 Software development",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/소프트웨어 개발 Software development.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "메인 Main",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":8},\"to\":{\"line\":11,\"ch\":8}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "Untitled",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Untitled.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":43},\"to\":{\"line\":3,\"ch\":43}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "메인 Main",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":20.325068870523417}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "note/Recently Modified.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "8086a4f199503aa7",
+            "type": "tabs",
+            "dimension": 56.18073316283036,
+            "children": [
+              {
+                "id": "3de2ee85f930378a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "블로그",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/블로그.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "Untitled",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Untitled.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":12},\"to\":{\"line\":78,\"ch\":12}},\"scroll\":57.6308787752878}"
+                    },
+                    {
+                      "title": "소프트웨어 개발 Software development",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/소프트웨어 개발 Software development.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":37},\"to\":{\"line\":17,\"ch\":37}}}"
+                    },
+                    {
+                      "title": "메인 Main",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":21},\"to\":{\"line\":11,\"ch\":21}},\"scroll\":0}"
+                    },
+                    {
+                      "title": "Nest.js",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Nest.js.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":48},\"to\":{\"line\":6,\"ch\":48}}}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "note/Untitled.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cd5aaaaa75263c79",
+        "type": "split",
+        "children": [
+          {
+            "id": "6cdce4173865dcea",
+            "type": "tabs",
+            "dimension": 43.42105263157895,
+            "children": [
+              {
+                "id": "e0fd61f16f5bfcea",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "7f96a2c04fef0791",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "취업",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "3728b996923343b2",
+            "type": "tabs",
+            "dimension": 31.49122807017544,
+            "children": [
+              {
+                "id": "157fe9a75f035559",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "note/Untitled.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "7f95be2b78e77997",
+            "type": "tabs",
+            "dimension": 25.08771929824561,
+            "children": [
+              {
+                "id": "a4c48f6268977fa5",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9cd34999be07fe52",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "note/Untitled.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.12645458446646504,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 233.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "2028e219f4e3ec20",
+        "type": "split",
+        "children": [
+          {
+            "id": "2fa4efc4df6917c0",
+            "type": "tabs",
+            "dimension": 38.30128205128205,
+            "children": [
+              {
+                "id": "3863fc42b3dc9717",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "note/Untitled.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "c5a0b279a3f0134a",
+            "type": "tabs",
+            "dimension": 61.69871794871795,
+            "children": [
+              {
+                "id": "7a0244a6d72f14cd",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "7a0244a6d72f14cd",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}",
+                      "title": "메인 Main",
+                      "icon": "lines-of-text"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "private/to do.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "3da364ba26843d1f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 226.5,
+        "collapsed": true
+      },
+      "active": "3de2ee85f930378a"
+    }
+  },
+  "active": "Home workspace"
+}

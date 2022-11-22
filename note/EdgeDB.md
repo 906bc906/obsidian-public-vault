@@ -1,7 +1,7 @@
 ---
 title: EdgeDB
 date: 2022-10-10T00:50:18+09:00
-last_modified_at: 2022-10-26T01:11:31+09:00
+last_modified_at: 2022-11-22T20:09:22+09:00
 ---
 
 

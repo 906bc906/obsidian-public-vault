@@ -1,7 +1,7 @@
 ---
 title: express logging req, res with morgan
 date: 2022-10-28T15:24:34+09:00
-last_modified_at: 2022-10-28T15:24:42+09:00
+last_modified_at: 2022-11-22T20:09:22+09:00
 ---
 [Express morgan middleware](https://expressjs.com/en/resources/middleware/morgan.html)
 

@@ -1,7 +1,7 @@
 ---
 title: SolidJS - Props - Default Props
 date: 2022-10-10T00:19:16+09:00
-last_modified_at: 2022-10-26T01:11:30+09:00
+last_modified_at: 2022-11-17T01:31:47+09:00
 ---
 
 https://www.solidjs.com/tutorial/props_defaults

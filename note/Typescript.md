@@ -3,7 +3,7 @@ title: Typescript
 tags:
 - todo
 date: 2022-10-10T01:07:51+09:00
-last_modified_at: 2022-10-26T01:11:29+09:00
+last_modified_at: 2022-11-17T01:31:46+09:00
 ---
 
 TARGET DECK
@@ -355,3 +355,5 @@ https://www.youtube.com/watch?v=17Oh028Jpis&list=PLZKTXPmaJk8KhKQ_BILr1JKCJbR0EG
 	- 타입스크립트 
 - [type-challenges/type-challenges: Collection of TypeScript type challenges with online judge](https://github.com/type-challenges/type-challenges)
 	- 타입 정의 문제들
+- [Learn TypeScript – Full Tutorial - YouTube](https://www.youtube.com/watch?v=30LWjhZzg50)
+- [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility)

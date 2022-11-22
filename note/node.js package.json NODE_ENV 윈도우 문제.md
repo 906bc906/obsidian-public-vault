@@ -1,3 +1,8 @@
+---
+title: node.js package.json NODE_ENV 윈도우 문제
+date: 2022-10-27T19:26:19+09:00
+last_modified_at: 2022-11-22T20:09:21+09:00
+---
 ## 문제
 
 ```bash

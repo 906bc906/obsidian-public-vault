@@ -1,7 +1,7 @@
 ---
 title: TypeORM 막혔던 곳들
 date: 2022-10-13T21:05:17+09:00
-last_modified_at: 2022-10-26T01:11:29+09:00
+last_modified_at: 2022-11-22T20:09:20+09:00
 ---
 ## composite PK는 어떻게 갖게 하는가?
 

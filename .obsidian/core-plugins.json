@@ -11,5 +11,6 @@
   "editor-status",
   "markdown-importer",
   "outline",
-  "word-count"
+  "word-count",
+  "workspaces"
 ]

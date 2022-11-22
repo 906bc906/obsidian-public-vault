@@ -174,14 +174,6 @@
       "key": "M"
     }
   ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
   "obsidian-git:push": [],
   "templater-obsidian:insert-templater": [
     {
@@ -190,5 +182,14 @@
       ],
       "key": "T"
     }
-  ]
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:toggle-checklist-status": []
 }

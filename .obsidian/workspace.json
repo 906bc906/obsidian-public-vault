@@ -6,184 +6,84 @@
       {
         "id": "72db4850fda6b7b5",
         "type": "tabs",
+        "dimension": 43.81926683716965,
         "children": [
           {
-            "id": "8c6b80045f474cf0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Node.js",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Node.js.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":40},\"to\":{\"line\":0,\"ch\":40}}}"
-                },
-                {
-                  "title": "웹 개발 Web",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발 Web.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":12},\"to\":{\"line\":28,\"ch\":12}},\"scroll\":19.819397993311036}"
-                },
-                {
-                  "title": "node.js 프로젝트 모범 설계",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/node.js 프로젝트 모범 설계.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Redis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Redis.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "웹 개발 Web",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/웹 개발 Web.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":6},\"to\":{\"line\":18,\"ch\":6}},\"scroll\":3.215686274509804}"
-                },
-                {
-                  "title": "프로그래밍",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/프로그래밍.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "소프트웨어 개발 Software development",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/소프트웨어 개발 Software development.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "메인 Main",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":13},\"to\":{\"line\":12,\"ch\":13}},\"scroll\":0}"
-                },
-                {
-                  "title": "ncloud 서버 인스턴스 초기 세팅",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/ncloud 서버 인스턴스 초기 세팅.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":0},\"to\":{\"line\":38,\"ch\":0}},\"scroll\":30.346522580102597}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/node.js package.json NODE_ENV 윈도우 문제.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "663d6055b4740c34",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Express",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Express.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "express error handling",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/express error handling (작성중).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Express",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Express.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":30},\"to\":{\"line\":6,\"ch\":30}},\"scroll\":0}"
-                },
-                {
-                  "title": "Reids 클라우드를 위한 여러 인스턴스 설정하기",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Reids 클라우드를 위한 여러 인스턴스 설정하기.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":195,\"ch\":38},\"to\":{\"line\":195,\"ch\":38}},\"scroll\":179.9950980392157}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/express error handling (작성중).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "73ac097c88fd1033",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "메인 Main",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Socket.io",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Socket.io.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "express error handling",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/express error handling (작성중).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "메인 Main",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":21.101928374655646}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/express error handling (작성중).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e5f4f8c3add5cea4",
+            "id": "3bedd720d2b06789",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 1,
               "stack": [
                 {
-                  "title": "socket.io error handling (작성중)",
+                  "title": "about 906bc906",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/socket.io error handling (작성중).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":22},\"to\":{\"line\":20,\"ch\":22}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/about 906bc906.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "to do dataview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/to do dataview.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "메인 Main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":17.832558565361555}"
+                },
+                {
+                  "title": "소프트웨어 개발 Software development",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/소프트웨어 개발 Software development.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "메인 Main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":8},\"to\":{\"line\":11,\"ch\":8}},\"scroll\":0}"
+                },
+                {
+                  "title": "메인 Main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":43},\"to\":{\"line\":3,\"ch\":43}},\"scroll\":0}"
+                },
+                {
+                  "title": "메인 Main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":20.325068870523417}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Recently Modified.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8086a4f199503aa7",
+        "type": "tabs",
+        "dimension": 56.18073316283036,
+        "children": [
+          {
+            "id": "fc43903525783650",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -193,33 +93,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/웹 개발 Web.md",
+                "file": "note/Next.js 13 App Dir 도입을 포기하게 된 이유.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "a740df4c54e96fb2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          },
-          {
-            "id": "a3ffa2c65f7c2abf",
+            "id": "f5d5f447cc79f8c8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -229,60 +110,30 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "뽀모도로 pomodoro 일지",
+                  "title": "Next.js",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/뽀모도로 pomodoro 일지.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
-                },
-                {
-                  "title": "Private notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/Private notes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":22},\"to\":{\"line\":9,\"ch\":22}}}"
-                },
-                {
-                  "title": "메인 Main",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "뽀모도로 pomodoro 일지",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/뽀모도로 pomodoro 일지.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Private notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/Private notes.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":17},\"to\":{\"line\":9,\"ch\":17}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Next.js.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":81},\"to\":{\"line\":7,\"ch\":81}}}"
                 },
                 {
                   "title": "메인 Main",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/메인 Main.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
-                },
-                {
-                  "title": "socket.io 에러 핸들링",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/socket.io 에러 핸들링.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":5},\"to\":{\"line\":23,\"ch\":5}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/20221027.md",
+                "file": "note/Next.js 13 App Dir 도입을 포기하게 된 이유.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -311,7 +162,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -330,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -361,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/웹 개발 Web.md"
+                "file": "note/Next.js 13 App Dir 도입을 포기하게 된 이유.md"
               }
             }
           }
@@ -404,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "note/웹 개발 Web.md",
+                "file": "note/Next.js 13 App Dir 도입을 포기하게 된 이유.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -427,7 +278,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.34846785852582934,
+                  "scale": 0.12645458446646504,
                   "close": true
                 }
               }
@@ -438,7 +289,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "2028e219f4e3ec20",
@@ -447,7 +299,7 @@
       {
         "id": "2fa4efc4df6917c0",
         "type": "tabs",
-        "dimension": 33.497536945812804,
+        "dimension": 38.30128205128205,
         "children": [
           {
             "id": "3863fc42b3dc9717",
@@ -464,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/웹 개발 Web.md",
+                "file": "note/Next.js 13 App Dir 도입을 포기하게 된 이유.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -480,7 +332,7 @@
       {
         "id": "c5a0b279a3f0134a",
         "type": "tabs",
-        "dimension": 33.2512315270936,
+        "dimension": 61.69871794871795,
         "children": [
           {
             "id": "7a0244a6d72f14cd",
@@ -506,18 +358,11 @@
               "type": "markdown",
               "state": {
                 "file": "private/to do.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "3b45ed0d0c673ea4",
-        "type": "tabs",
-        "dimension": 33.2512315270936,
-        "children": [
+          },
           {
             "id": "3da364ba26843d1f",
             "type": "leaf",
@@ -535,23 +380,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 226.5,
+    "collapsed": true
   },
-  "active": "e5f4f8c3add5cea4",
+  "active": "f5d5f447cc79f8c8",
   "lastOpenFiles": [
-    "note/temp graph.md",
-    "note/socket.io error handling (작성중).md",
-    "note/logging with winston.md",
-    "note/express error handling (작성중).md",
-    "note/express logging req, res with morgan.md",
+    "note/Next.js.md",
+    "note/Next.js 13 App Dir 도입을 포기하게 된 이유.md",
+    "note/Next.js 13 App Dir SSR, SSG, ISR.md",
+    "note/Next.js 는 무엇이며, 왜 써야 하는가.md",
     "note/메인 Main.md",
-    "private/20221027.md",
-    "note/Express.md",
-    "note/node.js package.json NODE_ENV 윈도우 문제.md",
-    "note/Node.js.md"
+    "note/Recently Modified.md",
+    "note/about 906bc906.md",
+    "note/리눅스 (OS 사용).md",
+    "note/git 깃.md",
+    "note/프로그래밍.md"
   ]
 }
